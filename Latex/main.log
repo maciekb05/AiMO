@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.7)  1 DEC 2018 12:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.7)  1 DEC 2018 13:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -351,235 +351,236 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 82.
-<cropped_Registration_Activity_Diagram.pdf, id=15, 992.70876pt x 863.225pt>
+ [2]
+<cropped_Registration_Activity_Diagram.pdf, id=22, 992.70876pt x 863.225pt>
 File: cropped_Registration_Activity_Diagram.pdf Graphic file (type pdf)
 <use cropped_Registration_Activity_Diagram.pdf>
-Package pdftex.def Info: cropped_Registration_Activity_Diagram.pdf  used on input line 96.
+Package pdftex.def Info: cropped_Registration_Activity_Diagram.pdf  used on input line 129.
 (pdftex.def)             Requested size: 513.5706pt x 446.5877pt.
- [2]
-<Login_cropped.pdf, id=23, 586.94281pt x 752.31062pt>
+ [3]
+<Login_cropped.pdf, id=26, 586.94281pt x 752.31062pt>
 File: Login_cropped.pdf Graphic file (type pdf)
 <use Login_cropped.pdf>
-Package pdftex.def Info: Login_cropped.pdf  used on input line 104.
+Package pdftex.def Info: Login_cropped.pdf  used on input line 137.
 (pdftex.def)             Requested size: 513.5706pt x 658.27017pt.
- [3 <./cropped_Registration_Activity_Diagram.pdf>]
-<crudCreate_cropped.pdf, id=43, 586.94281pt x 642.90187pt>
+ [4 <./cropped_Registration_Activity_Diagram.pdf>]
+<crudCreate_cropped.pdf, id=46, 586.94281pt x 642.90187pt>
 File: crudCreate_cropped.pdf Graphic file (type pdf)
 <use crudCreate_cropped.pdf>
-Package pdftex.def Info: crudCreate_cropped.pdf  used on input line 112.
+Package pdftex.def Info: crudCreate_cropped.pdf  used on input line 145.
 (pdftex.def)             Requested size: 513.5706pt x 562.53775pt.
- [4 <./Login_cropped.pdf>]
-<crudUpdate_cropped.pdf, id=63, 586.94281pt x 667.99562pt>
+ [5 <./Login_cropped.pdf>]
+<crudUpdate_cropped.pdf, id=66, 586.94281pt x 667.99562pt>
 File: crudUpdate_cropped.pdf Graphic file (type pdf)
 <use crudUpdate_cropped.pdf>
-Package pdftex.def Info: crudUpdate_cropped.pdf  used on input line 120.
+Package pdftex.def Info: crudUpdate_cropped.pdf  used on input line 153.
 (pdftex.def)             Requested size: 513.5706pt x 584.49474pt.
- [5 <./crudCreate_cropped.pdf>]
-<crudDelete_cropped.pdf, id=75, 586.94281pt x 651.93562pt>
+ [6 <./crudCreate_cropped.pdf>]
+<crudDelete_cropped.pdf, id=78, 586.94281pt x 651.93562pt>
 File: crudDelete_cropped.pdf Graphic file (type pdf)
 <use crudDelete_cropped.pdf>
-Package pdftex.def Info: crudDelete_cropped.pdf  used on input line 128.
+Package pdftex.def Info: crudDelete_cropped.pdf  used on input line 161.
 (pdftex.def)             Requested size: 513.5706pt x 570.44226pt.
- [6 <./crudUpdate_cropped.pdf>] [7 <./crudDelete_cropped.pdf>]
-<classes.pdf, id=99, 528.97626pt x 565.11125pt>
+ [7 <./crudUpdate_cropped.pdf>] [8 <./crudDelete_cropped.pdf>]
+<classes.pdf, id=102, 528.97626pt x 565.11125pt>
 File: classes.pdf Graphic file (type pdf)
 <use classes.pdf>
-Package pdftex.def Info: classes.pdf  used on input line 151.
+Package pdftex.def Info: classes.pdf  used on input line 184.
 (pdftex.def)             Requested size: 513.5706pt x 548.69186pt.
-<Stanu_cropped.pdf, id=100, 666.74094pt x 359.84438pt>
+<Stanu_cropped.pdf, id=103, 666.74094pt x 359.84438pt>
 File: Stanu_cropped.pdf Graphic file (type pdf)
 <use Stanu_cropped.pdf>
-Package pdftex.def Info: Stanu_cropped.pdf  used on input line 161.
+Package pdftex.def Info: Stanu_cropped.pdf  used on input line 194.
 (pdftex.def)             Requested size: 513.5706pt x 277.19632pt.
- [8 <./classes.pdf>]
-<webUseCase.pdf, id=112, 446.66875pt x 429.605pt>
+ [9 <./classes.pdf>]
+<webUseCase.pdf, id=115, 446.66875pt x 429.605pt>
 File: webUseCase.pdf Graphic file (type pdf)
 <use webUseCase.pdf>
-Package pdftex.def Info: webUseCase.pdf  used on input line 173.
+Package pdftex.def Info: webUseCase.pdf  used on input line 206.
 (pdftex.def)             Requested size: 432.48355pt x 415.96904pt.
- [9 <./Stanu_cropped.pdf>]
-<parentUseCase.pdf, id=128, 451.6875pt x 244.915pt>
+ [10 <./Stanu_cropped.pdf>]
+<parentUseCase.pdf, id=131, 451.6875pt x 244.915pt>
 File: parentUseCase.pdf Graphic file (type pdf)
 <use parentUseCase.pdf>
-Package pdftex.def Info: parentUseCase.pdf  used on input line 181.
+Package pdftex.def Info: parentUseCase.pdf  used on input line 214.
 (pdftex.def)             Requested size: 432.48355pt x 234.51778pt.
-<childUseCase.pdf, id=129, 445.665pt x 349.305pt>
+<childUseCase.pdf, id=132, 445.665pt x 349.305pt>
 File: childUseCase.pdf Graphic file (type pdf)
 <use childUseCase.pdf>
-Package pdftex.def Info: childUseCase.pdf  used on input line 189.
+Package pdftex.def Info: childUseCase.pdf  used on input line 222.
 (pdftex.def)             Requested size: 432.48355pt x 338.97467pt.
- [10 <./webUseCase.pdf> <./parentUseCase.pdf
+ [11 <./webUseCase.pdf> <./parentUseCase.pdf
 
 pdfTeX warning: pdflatex.exe (file ./parentUseCase.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<signingIn.pdf, id=149, 503.3204pt x 415.2313pt>
+<signingIn.pdf, id=153, 503.3204pt x 415.2313pt>
 File: signingIn.pdf Graphic file (type pdf)
 <use signingIn.pdf>
-Package pdftex.def Info: signingIn.pdf  used on input line 197.
+Package pdftex.def Info: signingIn.pdf  used on input line 230.
 (pdftex.def)             Requested size: 432.48355pt x 356.79416pt.
- [11 <./childUseCase.pdf>]
-<signinIn.jpg, id=162, 1039.75548pt x 510.55258pt>
+ [12 <./childUseCase.pdf>]
+<signinIn.jpg, id=165, 1039.75548pt x 510.55258pt>
 File: signinIn.jpg Graphic file (type jpg)
 <use signinIn.jpg>
-Package pdftex.def Info: signinIn.jpg  used on input line 204.
+Package pdftex.def Info: signinIn.jpg  used on input line 237.
 (pdftex.def)             Requested size: 432.48355pt x 212.35837pt.
-<registration.pdf, id=163, 515.3654pt x 356.01004pt>
+<registration.pdf, id=166, 515.3654pt x 356.01004pt>
 File: registration.pdf Graphic file (type pdf)
 <use registration.pdf>
-Package pdftex.def Info: registration.pdf  used on input line 211.
+Package pdftex.def Info: registration.pdf  used on input line 244.
 (pdftex.def)             Requested size: 432.48355pt x 298.7639pt.
- [12 <./signingIn.pdf> <./signinIn.jpg>]
-<register.jpg, id=180, 1034.31581pt x 504.3358pt>
+ [13 <./signingIn.pdf> <./signinIn.jpg>]
+<register.jpg, id=184, 1034.31581pt x 504.3358pt>
 File: register.jpg Graphic file (type jpg)
 <use register.jpg>
-Package pdftex.def Info: register.jpg  used on input line 218.
+Package pdftex.def Info: register.jpg  used on input line 251.
 (pdftex.def)             Requested size: 432.48355pt x 210.87303pt.
-<dashboard.jpg, id=181, 1043.64096pt x 508.99838pt>
+<dashboard.jpg, id=185, 1043.64096pt x 508.99838pt>
 File: dashboard.jpg Graphic file (type jpg)
 <use dashboard.jpg>
-Package pdftex.def Info: dashboard.jpg  used on input line 224.
+Package pdftex.def Info: dashboard.jpg  used on input line 257.
 (pdftex.def)             Requested size: 432.48355pt x 210.92749pt.
- [13 <./registration.pdf> <./register.jpg>]
-<children.jpg, id=199, 1038.9784pt x 512.10678pt>
+ [14 <./registration.pdf> <./register.jpg>]
+<children.jpg, id=202, 1038.9784pt x 512.10678pt>
 File: children.jpg Graphic file (type jpg)
 <use children.jpg>
-Package pdftex.def Info: children.jpg  used on input line 230.
+Package pdftex.def Info: children.jpg  used on input line 263.
 (pdftex.def)             Requested size: 432.48355pt x 213.16891pt.
-<childrenCreate.pdf, id=200, 509.3429pt x 270.6913pt>
+<childrenCreate.pdf, id=203, 509.3429pt x 270.6913pt>
 File: childrenCreate.pdf Graphic file (type pdf)
 <use childrenCreate.pdf>
-Package pdftex.def Info: childrenCreate.pdf  used on input line 237.
+Package pdftex.def Info: childrenCreate.pdf  used on input line 270.
 (pdftex.def)             Requested size: 432.48355pt x 229.85738pt.
- [14 <./dashboard.jpg> <./children.jpg>]
-<addChild.jpg, id=204, 1051.41194pt x 510.55258pt>
+ [15 <./dashboard.jpg> <./children.jpg>]
+<addChild.jpg, id=207, 1051.41194pt x 510.55258pt>
 File: addChild.jpg Graphic file (type jpg)
 <use addChild.jpg>
-Package pdftex.def Info: addChild.jpg  used on input line 244.
+Package pdftex.def Info: addChild.jpg  used on input line 277.
 (pdftex.def)             Requested size: 432.48355pt x 210.00568pt.
-<childrenUpdate.pdf, id=205, 509.3429pt x 254.63129pt>
+<childrenUpdate.pdf, id=208, 509.3429pt x 254.63129pt>
 File: childrenUpdate.pdf Graphic file (type pdf)
 <use childrenUpdate.pdf>
-Package pdftex.def Info: childrenUpdate.pdf  used on input line 251.
+Package pdftex.def Info: childrenUpdate.pdf  used on input line 284.
 (pdftex.def)             Requested size: 432.48355pt x 216.22003pt.
- [15 <./childrenCreate.pdf> <./addChild.jpg>]
-<editChild.jpg, id=219, 1049.85774pt x 513.66096pt>
+ [16 <./childrenCreate.pdf> <./addChild.jpg>]
+<editChild.jpg, id=222, 1049.85774pt x 513.66096pt>
 File: editChild.jpg Graphic file (type jpg)
 <use editChild.jpg>
-Package pdftex.def Info: editChild.jpg  used on input line 258.
+Package pdftex.def Info: editChild.jpg  used on input line 291.
 (pdftex.def)             Requested size: 432.48355pt x 211.59776pt.
-<childrenDelete.pdf, id=220, 509.3429pt x 338.94629pt>
+<childrenDelete.pdf, id=223, 509.3429pt x 338.94629pt>
 File: childrenDelete.pdf Graphic file (type pdf)
 <use childrenDelete.pdf>
-Package pdftex.def Info: childrenDelete.pdf  used on input line 265.
+Package pdftex.def Info: childrenDelete.pdf  used on input line 298.
 (pdftex.def)             Requested size: 432.48355pt x 287.81609pt.
- [16 <./childrenUpdate.pdf> <./editChild.jpg>]
-<deleteChild.jpg, id=234, 1052.96613pt x 508.99838pt>
+ [17 <./childrenUpdate.pdf> <./editChild.jpg>]
+<deleteChild.jpg, id=237, 1052.96613pt x 508.99838pt>
 File: deleteChild.jpg Graphic file (type jpg)
 <use deleteChild.jpg>
-Package pdftex.def Info: deleteChild.jpg  used on input line 272.
+Package pdftex.def Info: deleteChild.jpg  used on input line 305.
 (pdftex.def)             Requested size: 432.48355pt x 209.06348pt.
-<areas.jpg, id=235, 1037.4242pt x 512.10678pt>
+<areas.jpg, id=238, 1037.4242pt x 512.10678pt>
 File: areas.jpg Graphic file (type jpg)
 <use areas.jpg>
-Package pdftex.def Info: areas.jpg  used on input line 278.
+Package pdftex.def Info: areas.jpg  used on input line 311.
 (pdftex.def)             Requested size: 432.48355pt x 213.48929pt.
- [17 <./childrenDelete.pdf> <./deleteChild.jpg>]
-<areaCreate.pdf, id=276, 515.3654pt x 296.78879pt>
+ [18 <./childrenDelete.pdf> <./deleteChild.jpg>]
+<areaCreate.pdf, id=279, 515.3654pt x 296.78879pt>
 File: areaCreate.pdf Graphic file (type pdf)
 <use areaCreate.pdf>
-Package pdftex.def Info: areaCreate.pdf  used on input line 285.
+Package pdftex.def Info: areaCreate.pdf  used on input line 318.
 (pdftex.def)             Requested size: 432.48355pt x 249.06538pt.
-<addArea.jpg, id=277, 1052.96613pt x 507.4442pt>
+<addArea.jpg, id=280, 1052.96613pt x 507.4442pt>
 File: addArea.jpg Graphic file (type jpg)
 <use addArea.jpg>
-Package pdftex.def Info: addArea.jpg  used on input line 292.
+Package pdftex.def Info: addArea.jpg  used on input line 325.
 (pdftex.def)             Requested size: 432.48355pt x 208.42513pt.
- [18 <./areas.jpg> <./areaCreate.pdf>]
-<areaUpdate.pdf, id=292, 509.3429pt x 263.66504pt>
+ [19 <./areas.jpg> <./areaCreate.pdf>]
+<areaUpdate.pdf, id=296, 509.3429pt x 263.66504pt>
 File: areaUpdate.pdf Graphic file (type pdf)
 <use areaUpdate.pdf>
-Package pdftex.def Info: areaUpdate.pdf  used on input line 299.
+Package pdftex.def Info: areaUpdate.pdf  used on input line 332.
 (pdftex.def)             Requested size: 432.48355pt x 223.89104pt.
-<editArea.jpg, id=293, 1049.85774pt x 507.4442pt>
+<editArea.jpg, id=297, 1049.85774pt x 507.4442pt>
 File: editArea.jpg Graphic file (type jpg)
 <use editArea.jpg>
-Package pdftex.def Info: editArea.jpg  used on input line 306.
+Package pdftex.def Info: editArea.jpg  used on input line 339.
 (pdftex.def)             Requested size: 432.48355pt x 209.03682pt.
-<areaDelete.pdf, id=294, 509.3429pt x 346.97629pt>
+<areaDelete.pdf, id=298, 509.3429pt x 346.97629pt>
 File: areaDelete.pdf Graphic file (type pdf)
 <use areaDelete.pdf>
-Package pdftex.def Info: areaDelete.pdf  used on input line 313.
+Package pdftex.def Info: areaDelete.pdf  used on input line 346.
 (pdftex.def)             Requested size: 432.48355pt x 294.63474pt.
- [19 <./addArea.jpg> <./areaUpdate.pdf> <./editArea.jpg>]
-<deleteArea.jpg, id=309, 1057.62871pt x 515.21516pt>
+ [20 <./addArea.jpg> <./areaUpdate.pdf> <./editArea.jpg>]
+<deleteArea.jpg, id=312, 1057.62871pt x 515.21516pt>
 File: deleteArea.jpg Graphic file (type jpg)
 <use deleteArea.jpg>
-Package pdftex.def Info: deleteArea.jpg  used on input line 320.
+Package pdftex.def Info: deleteArea.jpg  used on input line 353.
 (pdftex.def)             Requested size: 432.48355pt x 210.67355pt.
-<rules.jpg, id=310, 1011.02719pt x 494.59781pt>
+<rules.jpg, id=313, 1011.02719pt x 494.59781pt>
 File: rules.jpg Graphic file (type jpg)
 <use rules.jpg>
-Package pdftex.def Info: rules.jpg  used on input line 326.
+Package pdftex.def Info: rules.jpg  used on input line 359.
 (pdftex.def)             Requested size: 432.48355pt x 211.57104pt.
- [20 <./areaDelete.pdf> <./deleteArea.jpg>]
-<rulesCreate.pdf, id=351, 509.3429pt x 313.85254pt>
+ [21 <./areaDelete.pdf> <./deleteArea.jpg>]
+<rulesCreate.pdf, id=354, 509.3429pt x 313.85254pt>
 File: rulesCreate.pdf Graphic file (type pdf)
 <use rulesCreate.pdf>
-Package pdftex.def Info: rulesCreate.pdf  used on input line 333.
+Package pdftex.def Info: rulesCreate.pdf  used on input line 366.
 (pdftex.def)             Requested size: 432.48355pt x 266.50774pt.
-<addRule.jpg, id=352, 1018.55531pt x 488.57532pt>
+<addRule.jpg, id=355, 1018.55531pt x 488.57532pt>
 File: addRule.jpg Graphic file (type jpg)
 <use addRule.jpg>
-Package pdftex.def Info: addRule.jpg  used on input line 340.
+Package pdftex.def Info: addRule.jpg  used on input line 373.
 (pdftex.def)             Requested size: 432.48355pt x 207.45166pt.
- [21 <./rules.jpg> <./rulesCreate.pdf>]
-<rulesUpdate.pdf, id=366, 515.3654pt x 263.66504pt>
+ [22 <./rules.jpg> <./rulesCreate.pdf>]
+<rulesUpdate.pdf, id=369, 515.3654pt x 263.66504pt>
 File: rulesUpdate.pdf Graphic file (type pdf)
 <use rulesUpdate.pdf>
-Package pdftex.def Info: rulesUpdate.pdf  used on input line 347.
+Package pdftex.def Info: rulesUpdate.pdf  used on input line 380.
 (pdftex.def)             Requested size: 432.48355pt x 221.26791pt.
-<editRule.jpg, id=367, 1017.04968pt x 496.10344pt>
+<editRule.jpg, id=370, 1017.04968pt x 496.10344pt>
 File: editRule.jpg Graphic file (type jpg)
 <use editRule.jpg>
-Package pdftex.def Info: editRule.jpg  used on input line 354.
+Package pdftex.def Info: editRule.jpg  used on input line 387.
 (pdftex.def)             Requested size: 432.48355pt x 210.9585pt.
-<rulesDelete.pdf, id=368, 511.9125pt x 346.29375pt>
+<rulesDelete.pdf, id=371, 511.9125pt x 346.29375pt>
 File: rulesDelete.pdf Graphic file (type pdf)
 <use rulesDelete.pdf>
-Package pdftex.def Info: rulesDelete.pdf  used on input line 361.
+Package pdftex.def Info: rulesDelete.pdf  used on input line 394.
 (pdftex.def)             Requested size: 432.48355pt x 292.56506pt.
- [22 <./addRule.jpg> <./rulesUpdate.pdf> <./editRule.jpg>]
-<deleteRule.jpg, id=382, 1020.06094pt x 496.10344pt>
+ [23 <./addRule.jpg> <./rulesUpdate.pdf> <./editRule.jpg>]
+<deleteRule.jpg, id=385, 1020.06094pt x 496.10344pt>
 File: deleteRule.jpg Graphic file (type jpg)
 <use deleteRule.jpg>
-Package pdftex.def Info: deleteRule.jpg  used on input line 368.
+Package pdftex.def Info: deleteRule.jpg  used on input line 401.
 (pdftex.def)             Requested size: 432.48355pt x 210.33777pt.
-<moduly_interfejsy_komunikacyjne.pdf, id=383, 1266.7325pt x 629.35126pt>
+<moduly_interfejsy_komunikacyjne.pdf, id=386, 1266.7325pt x 629.35126pt>
 File: moduly_interfejsy_komunikacyjne.pdf Graphic file (type pdf)
 <use moduly_interfejsy_komunikacyjne.pdf>
-Package pdftex.def Info: moduly_interfejsy_komunikacyjne.pdf  used on input line 378.
+Package pdftex.def Info: moduly_interfejsy_komunikacyjne.pdf  used on input line 411.
 (pdftex.def)             Requested size: 513.5706pt x 255.16435pt.
- [23 <./rulesDelete.pdf> <./deleteRule.jpg>]
+ [24 <./rulesDelete.pdf> <./deleteRule.jpg>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[24 <./moduly_interfejsy_komunikacyjne.pdf
+[25 <./moduly_interfejsy_komunikacyjne.pdf
 
 pdfTeX warning: pdflatex.exe (file ./moduly_interfejsy_komunikacyjne.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
->] [25] (./main.aux) ) 
+>] [26] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 5980 strings out of 494509
- 85542 string characters out of 6176085
+ 5983 strings out of 494509
+ 85604 string characters out of 6176085
  172791 words of memory out of 5000000
- 9485 multiletter control sequences out of 15000+600000
+ 9488 multiletter control sequences out of 15000+600000
  13200 words of font info for 27 fonts, out of 8000000 for 9000
  56 hyphenation exceptions out of 8191
  41i,12n,45p,516b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfxc1728.pfb>
-Output written on main.pdf (25 pages, 2434550 bytes).
+Output written on main.pdf (26 pages, 2437086 bytes).
 PDF statistics:
- 486 PDF objects out of 1000 (max. 8388607)
- 367 compressed objects within 4 object streams
+ 489 PDF objects out of 1000 (max. 8388607)
+ 369 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  197 words of extra memory for PDF output out of 10000 (max. 10000000)
 
