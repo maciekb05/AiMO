@@ -1,0 +1,581 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.7)  1 DEC 2018 10:03
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"d:/Semestr V/Analiza i modelowanie oprogramowania/Projekt/Latex/main.tex"
+(d:/Semestr V/Analiza i modelowanie oprogramowania/Projekt/Latex/main.tex
+LaTeX2e <2018-04-01> patch level 5
+(./sprawozdanie-agh.cls
+Document Class: sprawozdanie-agh 
+(c:/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(c:/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (c:/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/10/16 3.26 The Babel package
+ (c:/texlive/2018/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/10/16 3.26 Babel switching mechanism
+) (c:/texlive/2018/texmf-dist/tex/generic/babel-polish/polish.ldf
+Language: polish 2005/03/31 v1.2l Polish support from the babel system
+ (c:/texlive/2018/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/10/16 3.26 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+ (c:/texlive/2018/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count89
+)
+Package babel Info: Making " an active character on input line 83.
+\pl@left=\dimen104
+\pl@down=\dimen105
+\pl@right=\dimen106
+\pl@temp=\dimen107
+)) (c:/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+ (c:/texlive/2018/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)) (c:/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+) (c:/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+ (c:/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen108
+\Gin@req@width=\dimen109
+) (c:/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+ (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+) (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+) (c:/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count90
+\Gm@cntv=\count91
+\c@Gm@tempcnt=\count92
+\Gm@bindingoffset=\dimen110
+\Gm@wd@mp=\dimen111
+\Gm@odd@mp=\dimen112
+\Gm@even@mp=\dimen113
+\Gm@layoutwidth=\dimen114
+\Gm@layoutheight=\dimen115
+\Gm@layouthoffset=\dimen116
+\Gm@layoutvoffset=\dimen117
+\Gm@dimlist=\toks15
+) (c:/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+ (c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+) (c:/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footers
+\f@nch@headwidth=\skip43
+\f@nch@O@elh=\skip44
+\f@nch@O@erh=\skip45
+\f@nch@O@olh=\skip46
+\f@nch@O@orh=\skip47
+\f@nch@O@elf=\skip48
+\f@nch@O@erf=\skip49
+\f@nch@O@olf=\skip50
+\f@nch@O@orf=\skip51
+) (c:/texlive/2018/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (c:/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box26
+\beforetitleunit=\skip52
+\aftertitleunit=\skip53
+\ttl@plus=\dimen118
+\ttl@minus=\dimen119
+\ttl@toksa=\toks16
+\titlewidth=\dimen120
+\titlewidthlast=\dimen121
+\titlewidthfirst=\dimen122
+) (c:/texlive/2018/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip54
+\cftbeforetoctitleskip=\skip55
+\cftaftertoctitleskip=\skip56
+\cftbeforepartskip=\skip57
+\cftpartnumwidth=\skip58
+\cftpartindent=\skip59
+\cftbeforesecskip=\skip60
+\cftsecindent=\skip61
+\cftsecnumwidth=\skip62
+\cftbeforesubsecskip=\skip63
+\cftsubsecindent=\skip64
+\cftsubsecnumwidth=\skip65
+\cftbeforesubsubsecskip=\skip66
+\cftsubsubsecindent=\skip67
+\cftsubsubsecnumwidth=\skip68
+\cftbeforeparaskip=\skip69
+\cftparaindent=\skip70
+\cftparanumwidth=\skip71
+\cftbeforesubparaskip=\skip72
+\cftsubparaindent=\skip73
+\cftsubparanumwidth=\skip74
+\cftbeforeloftitleskip=\skip75
+\cftafterloftitleskip=\skip76
+\cftbeforefigskip=\skip77
+\cftfigindent=\skip78
+\cftfignumwidth=\skip79
+\c@lofdepth=\count93
+\c@lotdepth=\count94
+\cftbeforelottitleskip=\skip80
+\cftafterlottitleskip=\skip81
+\cftbeforetabskip=\skip82
+\cfttabindent=\skip83
+\cfttabnumwidth=\skip84
+) (c:/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)) (c:/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (c:/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count95
+\lst@gtempboxa=\box27
+\lst@token=\toks19
+\lst@length=\count96
+\lst@currlwidth=\dimen123
+\lst@column=\count97
+\lst@pos=\count98
+\lst@lostspace=\dimen124
+\lst@width=\dimen125
+\lst@newlines=\count99
+\lst@lineno=\count100
+\lst@maxwidth=\dimen126
+ (c:/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+\c@lstnumber=\count101
+\lst@skipnumbers=\count102
+\lst@framebox=\box28
+) (c:/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2018/09/02 1.7 listings configuration
+))
+Package: listings 2018/09/02 1.7 (Carsten Heinz)
+ (c:/texlive/2018/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+ (c:/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count103
+\calc@Bcount=\count104
+\calc@Adimen=\dimen127
+\calc@Bdimen=\dimen128
+\calc@Askip=\skip85
+\calc@Bskip=\skip86
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count105
+\calc@Cskip=\skip87
+) (c:/texlive/2018/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+ (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+ (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+\AM@pagewidth=\dimen129
+\AM@pageheight=\dimen130
+ (c:/texlive/2018/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box29
+\AM@global@opts=\toks20
+\AM@toc@title=\toks21
+\c@AM@survey=\count106
+\AM@templatesizebox=\box30
+) (c:/texlive/2018/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count107
+\float@exts=\toks22
+\float@box=\box31
+\@float@everytoks=\toks23
+\@floatcapt=\box32
+) (c:/texlive/2018/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
+Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
+) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+ (c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count108
+\scratchdimen=\dimen131
+\scratchbox=\box33
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen132
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
+\everyMPtoPDFconversion=\toks25
+) (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+ (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+)) (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+ (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+ (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+ (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))) (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+ (c:/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+Package geometry Warning: The marginal notes overrun the paper.
+     Add 39.54726pt and more to the right margin.
+
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
+* v-part:(T,H,B)=(42.67912pt, 759.6886pt, 42.67912pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=540.60239pt
+* \textheight=759.6886pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count114
+\AtBeginShipoutBox=\box34
+(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+ (c:/texlive/2018/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+<logo-agh.jpg, id=1, 73.2336pt x 142.6128pt>
+File: logo-agh.jpg Graphic file (type jpg)
+<use logo-agh.jpg>
+Package pdftex.def Info: logo-agh.jpg  used on input line 21.
+(pdftex.def)             Requested size: 58.58693pt x 114.09036pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 21.
+ [1
+
+{c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logo-agh.jpg>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 82.
+ (c:/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 82.
+<cropped_Registration_Activity_Diagram.pdf, id=15, 992.70876pt x 863.225pt>
+File: cropped_Registration_Activity_Diagram.pdf Graphic file (type pdf)
+<use cropped_Registration_Activity_Diagram.pdf>
+Package pdftex.def Info: cropped_Registration_Activity_Diagram.pdf  used on input line 96.
+(pdftex.def)             Requested size: 513.5706pt x 446.5877pt.
+ [2]
+<Login_cropped.pdf, id=23, 586.94281pt x 752.31062pt>
+File: Login_cropped.pdf Graphic file (type pdf)
+<use Login_cropped.pdf>
+Package pdftex.def Info: Login_cropped.pdf  used on input line 104.
+(pdftex.def)             Requested size: 513.5706pt x 658.27017pt.
+ [3 <./cropped_Registration_Activity_Diagram.pdf>]
+<crudCreate_cropped.pdf, id=43, 586.94281pt x 642.90187pt>
+File: crudCreate_cropped.pdf Graphic file (type pdf)
+<use crudCreate_cropped.pdf>
+Package pdftex.def Info: crudCreate_cropped.pdf  used on input line 112.
+(pdftex.def)             Requested size: 513.5706pt x 562.53775pt.
+ [4 <./Login_cropped.pdf>]
+<crudUpdate_cropped.pdf, id=63, 586.94281pt x 667.99562pt>
+File: crudUpdate_cropped.pdf Graphic file (type pdf)
+<use crudUpdate_cropped.pdf>
+Package pdftex.def Info: crudUpdate_cropped.pdf  used on input line 120.
+(pdftex.def)             Requested size: 513.5706pt x 584.49474pt.
+ [5 <./crudCreate_cropped.pdf>]
+<crudDelete_cropped.pdf, id=75, 586.94281pt x 651.93562pt>
+File: crudDelete_cropped.pdf Graphic file (type pdf)
+<use crudDelete_cropped.pdf>
+Package pdftex.def Info: crudDelete_cropped.pdf  used on input line 128.
+(pdftex.def)             Requested size: 513.5706pt x 570.44226pt.
+ [6 <./crudUpdate_cropped.pdf>] [7 <./crudDelete_cropped.pdf>]
+<classes.pdf, id=99, 528.97626pt x 565.11125pt>
+File: classes.pdf Graphic file (type pdf)
+<use classes.pdf>
+Package pdftex.def Info: classes.pdf  used on input line 151.
+(pdftex.def)             Requested size: 513.5706pt x 548.69186pt.
+<Stanu_cropped.pdf, id=100, 666.74094pt x 359.84438pt>
+File: Stanu_cropped.pdf Graphic file (type pdf)
+<use Stanu_cropped.pdf>
+Package pdftex.def Info: Stanu_cropped.pdf  used on input line 161.
+(pdftex.def)             Requested size: 513.5706pt x 277.19632pt.
+ [8 <./classes.pdf>]
+<webUseCase.pdf, id=112, 446.66875pt x 429.605pt>
+File: webUseCase.pdf Graphic file (type pdf)
+<use webUseCase.pdf>
+Package pdftex.def Info: webUseCase.pdf  used on input line 173.
+(pdftex.def)             Requested size: 432.48355pt x 415.96904pt.
+ [9 <./Stanu_cropped.pdf>]
+<parentUseCase.pdf, id=128, 451.6875pt x 244.915pt>
+File: parentUseCase.pdf Graphic file (type pdf)
+<use parentUseCase.pdf>
+Package pdftex.def Info: parentUseCase.pdf  used on input line 181.
+(pdftex.def)             Requested size: 432.48355pt x 234.51778pt.
+<childUseCase.pdf, id=129, 445.665pt x 349.305pt>
+File: childUseCase.pdf Graphic file (type pdf)
+<use childUseCase.pdf>
+Package pdftex.def Info: childUseCase.pdf  used on input line 189.
+(pdftex.def)             Requested size: 432.48355pt x 338.97467pt.
+ [10 <./webUseCase.pdf> <./parentUseCase.pdf
+
+pdfTeX warning: pdflatex.exe (file ./parentUseCase.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<signingIn.pdf, id=149, 503.3204pt x 415.2313pt>
+File: signingIn.pdf Graphic file (type pdf)
+<use signingIn.pdf>
+Package pdftex.def Info: signingIn.pdf  used on input line 197.
+(pdftex.def)             Requested size: 432.48355pt x 356.79416pt.
+ [11 <./childUseCase.pdf>]
+<signinIn.jpg, id=162, 1039.75548pt x 510.55258pt>
+File: signinIn.jpg Graphic file (type jpg)
+<use signinIn.jpg>
+Package pdftex.def Info: signinIn.jpg  used on input line 204.
+(pdftex.def)             Requested size: 432.48355pt x 212.35837pt.
+<registration.pdf, id=163, 515.3654pt x 356.01004pt>
+File: registration.pdf Graphic file (type pdf)
+<use registration.pdf>
+Package pdftex.def Info: registration.pdf  used on input line 211.
+(pdftex.def)             Requested size: 432.48355pt x 298.7639pt.
+ [12 <./signingIn.pdf> <./signinIn.jpg>]
+<register.jpg, id=180, 1034.31581pt x 504.3358pt>
+File: register.jpg Graphic file (type jpg)
+<use register.jpg>
+Package pdftex.def Info: register.jpg  used on input line 218.
+(pdftex.def)             Requested size: 432.48355pt x 210.87303pt.
+<dashboard.jpg, id=181, 1043.64096pt x 508.99838pt>
+File: dashboard.jpg Graphic file (type jpg)
+<use dashboard.jpg>
+Package pdftex.def Info: dashboard.jpg  used on input line 224.
+(pdftex.def)             Requested size: 432.48355pt x 210.92749pt.
+ [13 <./registration.pdf> <./register.jpg>]
+<children.jpg, id=199, 1038.9784pt x 512.10678pt>
+File: children.jpg Graphic file (type jpg)
+<use children.jpg>
+Package pdftex.def Info: children.jpg  used on input line 230.
+(pdftex.def)             Requested size: 432.48355pt x 213.16891pt.
+<childrenCreate.pdf, id=200, 509.3429pt x 270.6913pt>
+File: childrenCreate.pdf Graphic file (type pdf)
+<use childrenCreate.pdf>
+Package pdftex.def Info: childrenCreate.pdf  used on input line 237.
+(pdftex.def)             Requested size: 432.48355pt x 229.85738pt.
+ [14 <./dashboard.jpg> <./children.jpg>]
+<addChild.jpg, id=204, 1051.41194pt x 510.55258pt>
+File: addChild.jpg Graphic file (type jpg)
+<use addChild.jpg>
+Package pdftex.def Info: addChild.jpg  used on input line 244.
+(pdftex.def)             Requested size: 432.48355pt x 210.00568pt.
+<childrenUpdate.pdf, id=205, 509.3429pt x 254.63129pt>
+File: childrenUpdate.pdf Graphic file (type pdf)
+<use childrenUpdate.pdf>
+Package pdftex.def Info: childrenUpdate.pdf  used on input line 251.
+(pdftex.def)             Requested size: 432.48355pt x 216.22003pt.
+ [15 <./childrenCreate.pdf> <./addChild.jpg>]
+<editChild.jpg, id=219, 1049.85774pt x 513.66096pt>
+File: editChild.jpg Graphic file (type jpg)
+<use editChild.jpg>
+Package pdftex.def Info: editChild.jpg  used on input line 258.
+(pdftex.def)             Requested size: 432.48355pt x 211.59776pt.
+<childrenDelete.pdf, id=220, 509.3429pt x 338.94629pt>
+File: childrenDelete.pdf Graphic file (type pdf)
+<use childrenDelete.pdf>
+Package pdftex.def Info: childrenDelete.pdf  used on input line 265.
+(pdftex.def)             Requested size: 432.48355pt x 287.81609pt.
+ [16 <./childrenUpdate.pdf> <./editChild.jpg>]
+<deleteChild.jpg, id=234, 1052.96613pt x 508.99838pt>
+File: deleteChild.jpg Graphic file (type jpg)
+<use deleteChild.jpg>
+Package pdftex.def Info: deleteChild.jpg  used on input line 272.
+(pdftex.def)             Requested size: 432.48355pt x 209.06348pt.
+<areas.jpg, id=235, 1037.4242pt x 512.10678pt>
+File: areas.jpg Graphic file (type jpg)
+<use areas.jpg>
+Package pdftex.def Info: areas.jpg  used on input line 278.
+(pdftex.def)             Requested size: 432.48355pt x 213.48929pt.
+ [17 <./childrenDelete.pdf> <./deleteChild.jpg>]
+<areaCreate.pdf, id=276, 515.3654pt x 296.78879pt>
+File: areaCreate.pdf Graphic file (type pdf)
+<use areaCreate.pdf>
+Package pdftex.def Info: areaCreate.pdf  used on input line 285.
+(pdftex.def)             Requested size: 432.48355pt x 249.06538pt.
+<addArea.jpg, id=277, 1052.96613pt x 507.4442pt>
+File: addArea.jpg Graphic file (type jpg)
+<use addArea.jpg>
+Package pdftex.def Info: addArea.jpg  used on input line 292.
+(pdftex.def)             Requested size: 432.48355pt x 208.42513pt.
+ [18 <./areas.jpg> <./areaCreate.pdf>]
+<areaUpdate.pdf, id=292, 509.3429pt x 263.66504pt>
+File: areaUpdate.pdf Graphic file (type pdf)
+<use areaUpdate.pdf>
+Package pdftex.def Info: areaUpdate.pdf  used on input line 299.
+(pdftex.def)             Requested size: 432.48355pt x 223.89104pt.
+<editArea.jpg, id=293, 1049.85774pt x 507.4442pt>
+File: editArea.jpg Graphic file (type jpg)
+<use editArea.jpg>
+Package pdftex.def Info: editArea.jpg  used on input line 306.
+(pdftex.def)             Requested size: 432.48355pt x 209.03682pt.
+<areaDelete.pdf, id=294, 509.3429pt x 346.97629pt>
+File: areaDelete.pdf Graphic file (type pdf)
+<use areaDelete.pdf>
+Package pdftex.def Info: areaDelete.pdf  used on input line 313.
+(pdftex.def)             Requested size: 432.48355pt x 294.63474pt.
+ [19 <./addArea.jpg> <./areaUpdate.pdf> <./editArea.jpg>]
+<deleteArea.jpg, id=309, 1057.62871pt x 515.21516pt>
+File: deleteArea.jpg Graphic file (type jpg)
+<use deleteArea.jpg>
+Package pdftex.def Info: deleteArea.jpg  used on input line 320.
+(pdftex.def)             Requested size: 432.48355pt x 210.67355pt.
+<rules.jpg, id=310, 1011.02719pt x 494.59781pt>
+File: rules.jpg Graphic file (type jpg)
+<use rules.jpg>
+Package pdftex.def Info: rules.jpg  used on input line 326.
+(pdftex.def)             Requested size: 432.48355pt x 211.57104pt.
+ [20 <./areaDelete.pdf> <./deleteArea.jpg>]
+<rulesCreate.pdf, id=351, 509.3429pt x 313.85254pt>
+File: rulesCreate.pdf Graphic file (type pdf)
+<use rulesCreate.pdf>
+Package pdftex.def Info: rulesCreate.pdf  used on input line 333.
+(pdftex.def)             Requested size: 432.48355pt x 266.50774pt.
+<addRule.jpg, id=352, 1018.55531pt x 488.57532pt>
+File: addRule.jpg Graphic file (type jpg)
+<use addRule.jpg>
+Package pdftex.def Info: addRule.jpg  used on input line 340.
+(pdftex.def)             Requested size: 432.48355pt x 207.45166pt.
+ [21 <./rules.jpg> <./rulesCreate.pdf>]
+<rulesUpdate.pdf, id=366, 515.3654pt x 263.66504pt>
+File: rulesUpdate.pdf Graphic file (type pdf)
+<use rulesUpdate.pdf>
+Package pdftex.def Info: rulesUpdate.pdf  used on input line 347.
+(pdftex.def)             Requested size: 432.48355pt x 221.26791pt.
+<editRule.jpg, id=367, 1017.04968pt x 496.10344pt>
+File: editRule.jpg Graphic file (type jpg)
+<use editRule.jpg>
+Package pdftex.def Info: editRule.jpg  used on input line 354.
+(pdftex.def)             Requested size: 432.48355pt x 210.9585pt.
+<rulesDelete.pdf, id=368, 511.9125pt x 346.29375pt>
+File: rulesDelete.pdf Graphic file (type pdf)
+<use rulesDelete.pdf>
+Package pdftex.def Info: rulesDelete.pdf  used on input line 361.
+(pdftex.def)             Requested size: 432.48355pt x 292.56506pt.
+ [22 <./addRule.jpg> <./rulesUpdate.pdf> <./editRule.jpg>]
+<deleteRule.jpg, id=382, 1020.06094pt x 496.10344pt>
+File: deleteRule.jpg Graphic file (type jpg)
+<use deleteRule.jpg>
+Package pdftex.def Info: deleteRule.jpg  used on input line 368.
+(pdftex.def)             Requested size: 432.48355pt x 210.33777pt.
+<moduly_interfejsy_komunikacyjne.pdf, id=383, 882.29625pt x 529.98pt>
+File: moduly_interfejsy_komunikacyjne.pdf Graphic file (type pdf)
+<use moduly_interfejsy_komunikacyjne.pdf>
+Package pdftex.def Info: moduly_interfejsy_komunikacyjne.pdf  used on input line 378.
+(pdftex.def)             Requested size: 513.5706pt x 308.50458pt.
+ [23 <./rulesDelete.pdf> <./deleteRule.jpg>] [24 <./moduly_interfejsy_komunikacyjne.pdf
+
+pdfTeX warning: pdflatex.exe (file ./moduly_interfejsy_komunikacyjne.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>] [25] (./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 5980 strings out of 494509
+ 85542 string characters out of 6176085
+ 172791 words of memory out of 5000000
+ 9485 multiletter control sequences out of 15000+600000
+ 13200 words of font info for 27 fonts, out of 8000000 for 9000
+ 56 hyphenation exceptions out of 8191
+ 41i,12n,45p,516b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfxc1728.pfb>
+Output written on main.pdf (25 pages, 2495105 bytes).
+PDF statistics:
+ 511 PDF objects out of 1000 (max. 8388607)
+ 382 compressed objects within 4 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 197 words of extra memory for PDF output out of 10000 (max. 10000000)
+
