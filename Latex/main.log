@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.7)  1 DEC 2018 10:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.7)  1 DEC 2018 12:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -554,12 +554,16 @@ File: deleteRule.jpg Graphic file (type jpg)
 <use deleteRule.jpg>
 Package pdftex.def Info: deleteRule.jpg  used on input line 368.
 (pdftex.def)             Requested size: 432.48355pt x 210.33777pt.
-<moduly_interfejsy_komunikacyjne.pdf, id=383, 882.29625pt x 529.98pt>
+<moduly_interfejsy_komunikacyjne.pdf, id=383, 1266.7325pt x 629.35126pt>
 File: moduly_interfejsy_komunikacyjne.pdf Graphic file (type pdf)
 <use moduly_interfejsy_komunikacyjne.pdf>
 Package pdftex.def Info: moduly_interfejsy_komunikacyjne.pdf  used on input line 378.
-(pdftex.def)             Requested size: 513.5706pt x 308.50458pt.
- [23 <./rulesDelete.pdf> <./deleteRule.jpg>] [24 <./moduly_interfejsy_komunikacyjne.pdf
+(pdftex.def)             Requested size: 513.5706pt x 255.16435pt.
+ [23 <./rulesDelete.pdf> <./deleteRule.jpg>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[24 <./moduly_interfejsy_komunikacyjne.pdf
 
 pdfTeX warning: pdflatex.exe (file ./moduly_interfejsy_komunikacyjne.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >] [25] (./main.aux) ) 
@@ -572,10 +576,10 @@ Here is how much of TeX's memory you used:
  56 hyphenation exceptions out of 8191
  41i,12n,45p,516b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfxc1728.pfb>
-Output written on main.pdf (25 pages, 2495105 bytes).
+Output written on main.pdf (25 pages, 2434550 bytes).
 PDF statistics:
- 511 PDF objects out of 1000 (max. 8388607)
- 382 compressed objects within 4 object streams
+ 486 PDF objects out of 1000 (max. 8388607)
+ 367 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  197 words of extra memory for PDF output out of 10000 (max. 10000000)
 
