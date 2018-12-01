@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.7)  1 DEC 2018 13:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.7)  1 DEC 2018 17:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -561,26 +561,28 @@ File: moduly_interfejsy_komunikacyjne.pdf Graphic file (type pdf)
 Package pdftex.def Info: moduly_interfejsy_komunikacyjne.pdf  used on input line 411.
 (pdftex.def)             Requested size: 513.5706pt x 255.16435pt.
  [24 <./rulesDelete.pdf> <./deleteRule.jpg>]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[25 <./moduly_interfejsy_komunikacyjne.pdf
+<ProjektOprogramowania.pdf, id=428, 1067.99pt x 1465.475pt>
+File: ProjektOprogramowania.pdf Graphic file (type pdf)
+<use ProjektOprogramowania.pdf>
+Package pdftex.def Info: ProjektOprogramowania.pdf  used on input line 442.
+(pdftex.def)             Requested size: 513.5706pt x 704.73933pt.
+ [25 <./moduly_interfejsy_komunikacyjne.pdf
 
 pdfTeX warning: pdflatex.exe (file ./moduly_interfejsy_komunikacyjne.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
->] [26] (./main.aux) ) 
+>] [26 <./ProjektOprogramowania.pdf>] [27] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 5983 strings out of 494509
- 85604 string characters out of 6176085
+ 5989 strings out of 494509
+ 85781 string characters out of 6176085
  172791 words of memory out of 5000000
- 9488 multiletter control sequences out of 15000+600000
+ 9493 multiletter control sequences out of 15000+600000
  13200 words of font info for 27 fonts, out of 8000000 for 9000
  56 hyphenation exceptions out of 8191
  41i,12n,45p,516b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfxc1728.pfb>
-Output written on main.pdf (26 pages, 2437086 bytes).
+Output written on main.pdf (27 pages, 2490486 bytes).
 PDF statistics:
- 489 PDF objects out of 1000 (max. 8388607)
- 369 compressed objects within 4 object streams
+ 501 PDF objects out of 1000 (max. 8388607)
+ 378 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 197 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 202 words of extra memory for PDF output out of 10000 (max. 10000000)
 

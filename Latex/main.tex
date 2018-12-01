@@ -413,39 +413,9 @@
 			\caption{Architecture, modules and interfaces}
 		\end{figure}
 
-		Our application's modules communicate with server through RESTful API. Our application will send requests to server when user fills forms, and clicks buttons. Server will fetch proper data using axios from MongoDB database on mLab server. Based on fetched data web components will update or user will be redirected to proper route.
-		
-		\subsection{API}
-		\begin{itemize}
-			\item \textbackslash api\textbackslash current\_user - current signed in user,
-			\item \textbackslash api\textbackslash logout - logging out user,
-			\item \textbackslash api\textbackslash googleAuth - signing user in with Google OAuth,
-			\item \textbackslash api\textbackslash register - registering new user,
-			\item \textbackslash api\textbackslash login - signing user in,
-			
-			\item \textbackslash api\textbackslash rules - rules for current user,
-			\item \textbackslash api\textbackslash rules\textbackslash create - creating new rule for current user,
-			\item \textbackslash api\textbackslash rules\textbackslash read - rule data,
-			\item \textbackslash api\textbackslash rules\textbackslash update - updating rule,
-			\item \textbackslash api\textbackslash rules\textbackslash delete - deleting rule,
-			
-			\item \textbackslash api\textbackslash areas - areas for current user,
-			\item \textbackslash api\textbackslash areas\textbackslash create - creating new area,
-			\item \textbackslash api\textbackslash areas\textbackslash read - area data,
-			\item \textbackslash api\textbackslash areas\textbackslash update - updating area,
-			\item \textbackslash api\textbackslash areas\textbackslash delete - deleting area,
-			
-			\item \textbackslash api\textbackslash children - children for current user,
-			\item \textbackslash api\textbackslash children\textbackslash create - creating new child,
-			\item \textbackslash api\textbackslash children\textbackslash read - child data,
-			\item \textbackslash api\textbackslash children\textbackslash update - updating child data,
-			\item \textbackslash api\textbackslash children\textbackslash delete - deleting child data,
-			
-		\end{itemize}
-
 		\subsection{Project of tests}
 		
-		\begin{table}[h]
+		\begin{table}[H]
 			\centering
 			\begin{tabular}{|c|c|c|}
 				\hline
@@ -459,5 +429,48 @@
 			\end{tabular}
 			\caption{Project of tests}
 		\end{table}
+
+	\section{Project of software}
+
+		\subsection{Client side: React Components}
+
+			Platform: JavaScript -> JSX -> HTML
+
+			\begin{figure}[H] 
+				\centering
+				\begin{tabular}{c}
+					\includegraphics[width=.95\textwidth]{ProjektOprogramowania}
+				\end{tabular} 
+				\caption{Software project}
+			\end{figure}
+
+			Our application's modules communicate with server through RESTful API. Our application will send requests to server when user fills forms, and clicks buttons. Server will fetch proper data using axios from MongoDB database on mLab server. Based on fetched data web components will update or user will be redirected to proper route.
+		
+		\subsection{Server side: API}
+
+			Platform: JavaScript -> NodeJS -> Express
+
+			\begin{itemize}
+				\item \textbackslash api\textbackslash current\_user - current signed in user,
+				\item \textbackslash api\textbackslash logout - logging out user,
+				\item \textbackslash api\textbackslash googleAuth - signing user in with Google OAuth,
+				\item \textbackslash api\textbackslash register - registering new user,
+				\item \textbackslash api\textbackslash login - signing user in,
+				\item \textbackslash api\textbackslash rules - rules for current user,
+				\item \textbackslash api\textbackslash rules\textbackslash create - creating new rule for current user,
+				\item \textbackslash api\textbackslash rules\textbackslash read - rule data,
+				\item \textbackslash api\textbackslash rules\textbackslash update - updating rule,
+				\item \textbackslash api\textbackslash rules\textbackslash delete - deleting rule,
+				\item \textbackslash api\textbackslash areas - areas for current user,
+				\item \textbackslash api\textbackslash areas\textbackslash create - creating new area,
+				\item \textbackslash api\textbackslash areas\textbackslash read - area data,
+				\item \textbackslash api\textbackslash areas\textbackslash update - updating area,
+				\item \textbackslash api\textbackslash areas\textbackslash delete - deleting area,	
+				\item \textbackslash api\textbackslash children - children for current user,
+				\item \textbackslash api\textbackslash children\textbackslash create - creating new child,
+				\item \textbackslash api\textbackslash children\textbackslash read - child data,
+				\item \textbackslash api\textbackslash children\textbackslash update - updating child data,
+				\item \textbackslash api\textbackslash children\textbackslash delete - deleting child data.
+			\end{itemize}
 
 \end{document}
