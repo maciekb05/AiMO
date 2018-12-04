@@ -466,13 +466,45 @@
 				\end{tabular} 
 				\caption{Software project}
 			\end{figure}
-
-			Our application's modules communicate with server through RESTful API. Our application will send requests to server when user fills forms, and clicks buttons. Server will fetch proper data using axios from MongoDB database on mLab server. Based on fetched data web components will update or user will be redirected to proper route.
+		
+			\begin{figure}[H] 
+				\centering
+				\begin{tabular}{c}
+					\includegraphics[width=.95\textwidth]{registerSequenceDiagram}
+				\end{tabular} 
+				\caption{Register Sequence Diagram}
+			\end{figure}
+		
+			\begin{figure}[H] 
+				\centering
+				\begin{tabular}{c}
+					\includegraphics[width=.95\textwidth]{loginSequenceDiagram}
+				\end{tabular} 
+				\caption{Login Sequence Diagram}
+			\end{figure}
+		
+			\begin{figure}[H] 
+				\centering
+				\begin{tabular}{c}
+					\includegraphics[width=.85\textwidth]{CRUDSequenceDiagram}
+				\end{tabular} 
+				\caption{CRUD Rules Sequence Diagram}
+			\end{figure}
+		
+			\begin{figure}[H] 
+				\centering
+				\begin{tabular}{c}
+					\includegraphics[width=.85\textwidth]{paymentSequenceDiagram}
+				\end{tabular} 
+				\caption{Payment Rules Sequence Diagram}
+			\end{figure}
 		
 		\subsection{Server side: API}
 
 			Platform: JavaScript -> NodeJS -> Express
 
+			Our application's modules communicate with server through RESTful API. Our application will send requests to server when user fills forms, and clicks buttons. Server will fetch proper data using axios from MongoDB database on mLab server. Based on fetched data web components will update or user will be redirected to proper route.
+			
 			\begin{itemize}
 				\item \textbackslash api\textbackslash current\_user - current signed in user,
 				\item \textbackslash api\textbackslash logout - logging out user,
