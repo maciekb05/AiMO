@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.7)  4 DEC 2018 17:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.7)  4 DEC 2018 18:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -401,206 +401,214 @@ File: Stanu_cropped.pdf Graphic file (type pdf)
 Package pdftex.def Info: Stanu_cropped.pdf  used on input line 201.
 (pdftex.def)             Requested size: 513.5706pt x 277.19632pt.
  [10 <./classes.pdf>]
-<webUseCase.png, id=135, 629.9535pt x 593.21625pt>
+<paymentStateDiagram.pdf, id=135, 638.78653pt x 254.75175pt>
+File: paymentStateDiagram.pdf Graphic file (type pdf)
+<use paymentStateDiagram.pdf>
+Package pdftex.def Info: paymentStateDiagram.pdf  used on input line 209.
+(pdftex.def)             Requested size: 513.5706pt x 204.82399pt.
+<webUseCase.png, id=136, 629.9535pt x 593.21625pt>
 File: webUseCase.png Graphic file (type png)
 <use webUseCase.png>
-Package pdftex.def Info: webUseCase.png  used on input line 213.
+Package pdftex.def Info: webUseCase.png  used on input line 221.
 (pdftex.def)             Requested size: 432.48355pt x 407.26491pt.
- [11 <./Stanu_cropped.pdf>]
-<parentUseCase.pdf, id=152, 451.6875pt x 244.915pt>
+ [11 <./Stanu_cropped.pdf> <./paymentStateDiagram.pdf
+
+pdfTeX warning: pdflatex.exe (file ./paymentStateDiagram.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<parentUseCase.pdf, id=165, 451.6875pt x 244.915pt>
 File: parentUseCase.pdf Graphic file (type pdf)
 <use parentUseCase.pdf>
-Package pdftex.def Info: parentUseCase.pdf  used on input line 221.
+Package pdftex.def Info: parentUseCase.pdf  used on input line 229.
 (pdftex.def)             Requested size: 432.48355pt x 234.51778pt.
-<childUseCase.pdf, id=153, 445.665pt x 349.305pt>
+<childUseCase.pdf, id=166, 445.665pt x 349.305pt>
 File: childUseCase.pdf Graphic file (type pdf)
 <use childUseCase.pdf>
-Package pdftex.def Info: childUseCase.pdf  used on input line 229.
+Package pdftex.def Info: childUseCase.pdf  used on input line 237.
 (pdftex.def)             Requested size: 432.48355pt x 338.97467pt.
  [12 <./webUseCase.PNG> <./parentUseCase.pdf>]
-<log_cropped.pdf, id=166, 515.9275pt x 466.74374pt>
+<log_cropped.pdf, id=178, 515.9275pt x 466.74374pt>
 File: log_cropped.pdf Graphic file (type pdf)
 <use log_cropped.pdf>
-Package pdftex.def Info: log_cropped.pdf  used on input line 237.
+Package pdftex.def Info: log_cropped.pdf  used on input line 245.
 (pdftex.def)             Requested size: 432.48355pt x 391.2644pt.
  [13 <./childUseCase.pdf>]
-<signinIn.jpg, id=179, 1039.75548pt x 510.55258pt>
+<signinIn.jpg, id=191, 1039.75548pt x 510.55258pt>
 File: signinIn.jpg Graphic file (type jpg)
 <use signinIn.jpg>
-Package pdftex.def Info: signinIn.jpg  used on input line 244.
+Package pdftex.def Info: signinIn.jpg  used on input line 252.
 (pdftex.def)             Requested size: 432.48355pt x 212.35837pt.
-<reg_cropped.pdf, id=180, 509.905pt x 407.5225pt>
+<reg_cropped.pdf, id=192, 509.905pt x 407.5225pt>
 File: reg_cropped.pdf Graphic file (type pdf)
 <use reg_cropped.pdf>
-Package pdftex.def Info: reg_cropped.pdf  used on input line 251.
+Package pdftex.def Info: reg_cropped.pdf  used on input line 259.
 (pdftex.def)             Requested size: 432.48355pt x 345.662pt.
  [14 <./log_cropped.pdf> <./signinIn.jpg>]
-<register.jpg, id=207, 1034.31581pt x 504.3358pt>
+<register.jpg, id=219, 1034.31581pt x 504.3358pt>
 File: register.jpg Graphic file (type jpg)
 <use register.jpg>
-Package pdftex.def Info: register.jpg  used on input line 258.
+Package pdftex.def Info: register.jpg  used on input line 266.
 (pdftex.def)             Requested size: 432.48355pt x 210.87303pt.
-<dashboard.jpg, id=208, 1043.64096pt x 508.99838pt>
+<dashboard.jpg, id=220, 1043.64096pt x 508.99838pt>
 File: dashboard.jpg Graphic file (type jpg)
 <use dashboard.jpg>
-Package pdftex.def Info: dashboard.jpg  used on input line 264.
+Package pdftex.def Info: dashboard.jpg  used on input line 272.
 (pdftex.def)             Requested size: 432.48355pt x 210.92749pt.
  [15 <./reg_cropped.pdf> <./register.jpg>]
-<children.jpg, id=235, 1038.9784pt x 512.10678pt>
+<children.jpg, id=247, 1038.9784pt x 512.10678pt>
 File: children.jpg Graphic file (type jpg)
 <use children.jpg>
-Package pdftex.def Info: children.jpg  used on input line 270.
+Package pdftex.def Info: children.jpg  used on input line 278.
 (pdftex.def)             Requested size: 432.48355pt x 213.16891pt.
-<crC_cropped.pdf, id=236, 503.8825pt x 314.17375pt>
+<crC_cropped.pdf, id=248, 503.8825pt x 314.17375pt>
 File: crC_cropped.pdf Graphic file (type pdf)
 <use crC_cropped.pdf>
-Package pdftex.def Info: crC_cropped.pdf  used on input line 277.
+Package pdftex.def Info: crC_cropped.pdf  used on input line 285.
 (pdftex.def)             Requested size: 432.48355pt x 269.65681pt.
  [16 <./dashboard.jpg> <./children.jpg>]
-<addChild.jpg, id=240, 1051.41194pt x 510.55258pt>
+<addChild.jpg, id=252, 1051.41194pt x 510.55258pt>
 File: addChild.jpg Graphic file (type jpg)
 <use addChild.jpg>
-Package pdftex.def Info: addChild.jpg  used on input line 284.
+Package pdftex.def Info: addChild.jpg  used on input line 292.
 (pdftex.def)             Requested size: 432.48355pt x 210.00568pt.
-<upC_cropped.pdf, id=241, 515.9275pt x 306.14375pt>
+<upC_cropped.pdf, id=253, 515.9275pt x 306.14375pt>
 File: upC_cropped.pdf Graphic file (type pdf)
 <use upC_cropped.pdf>
-Package pdftex.def Info: upC_cropped.pdf  used on input line 291.
+Package pdftex.def Info: upC_cropped.pdf  used on input line 299.
 (pdftex.def)             Requested size: 432.48355pt x 256.63579pt.
  [17 <./crC_cropped.pdf> <./addChild.jpg>]
-<editChild.jpg, id=263, 1049.85774pt x 513.66096pt>
+<editChild.jpg, id=275, 1049.85774pt x 513.66096pt>
 File: editChild.jpg Graphic file (type jpg)
 <use editChild.jpg>
-Package pdftex.def Info: editChild.jpg  used on input line 298.
+Package pdftex.def Info: editChild.jpg  used on input line 306.
 (pdftex.def)             Requested size: 432.48355pt x 211.59776pt.
 
 
 pdfTeX warning: pdflatex.exe (file ./deC_cropped.pdf): PDF inclusion: found PDF version <2.0>, but at most version <1.5> allowed
-<deC_cropped.pdf, id=264, 497.25414pt x 351.29434pt>
+<deC_cropped.pdf, id=276, 497.25414pt x 351.29434pt>
 File: deC_cropped.pdf Graphic file (type pdf)
 <use deC_cropped.pdf>
-Package pdftex.def Info: deC_cropped.pdf  used on input line 305.
+Package pdftex.def Info: deC_cropped.pdf  used on input line 313.
 (pdftex.def)             Requested size: 432.48355pt x 305.53247pt.
 [18 <./upC_cropped.pdf> <./editChild.jpg>]
-<deleteChild.jpg, id=286, 1052.96613pt x 508.99838pt>
+<deleteChild.jpg, id=298, 1052.96613pt x 508.99838pt>
 File: deleteChild.jpg Graphic file (type jpg)
 <use deleteChild.jpg>
-Package pdftex.def Info: deleteChild.jpg  used on input line 312.
+Package pdftex.def Info: deleteChild.jpg  used on input line 320.
 (pdftex.def)             Requested size: 432.48355pt x 209.06348pt.
-<areas.jpg, id=287, 1037.4242pt x 512.10678pt>
+<areas.jpg, id=299, 1037.4242pt x 512.10678pt>
 File: areas.jpg Graphic file (type jpg)
 <use areas.jpg>
-Package pdftex.def Info: areas.jpg  used on input line 318.
+Package pdftex.def Info: areas.jpg  used on input line 326.
 (pdftex.def)             Requested size: 432.48355pt x 213.48929pt.
  [19 <./deC_cropped.pdf> <./deleteChild.jpg>]
-<crA_cropped.pdf, id=315, 503.8825pt x 339.2675pt>
+<crA_cropped.pdf, id=328, 503.8825pt x 339.2675pt>
 File: crA_cropped.pdf Graphic file (type pdf)
 <use crA_cropped.pdf>
-Package pdftex.def Info: crA_cropped.pdf  used on input line 325.
+Package pdftex.def Info: crA_cropped.pdf  used on input line 333.
 (pdftex.def)             Requested size: 432.48355pt x 291.1949pt.
-<addArea.jpg, id=316, 1052.96613pt x 507.4442pt>
+<addArea.jpg, id=329, 1052.96613pt x 507.4442pt>
 File: addArea.jpg Graphic file (type jpg)
 <use addArea.jpg>
-Package pdftex.def Info: addArea.jpg  used on input line 332.
+Package pdftex.def Info: addArea.jpg  used on input line 340.
 (pdftex.def)             Requested size: 432.48355pt x 208.42513pt.
  [20 <./areas.jpg> <./crA_cropped.pdf>]
-<upA_cropped.pdf, id=339, 509.905pt x 305.14pt>
+<upA_cropped.pdf, id=351, 509.905pt x 305.14pt>
 File: upA_cropped.pdf Graphic file (type pdf)
 <use upA_cropped.pdf>
-Package pdftex.def Info: upA_cropped.pdf  used on input line 339.
+Package pdftex.def Info: upA_cropped.pdf  used on input line 347.
 (pdftex.def)             Requested size: 432.48355pt x 258.82079pt.
-<editArea.jpg, id=340, 1049.85774pt x 507.4442pt>
+<editArea.jpg, id=352, 1049.85774pt x 507.4442pt>
 File: editArea.jpg Graphic file (type jpg)
 <use editArea.jpg>
-Package pdftex.def Info: editArea.jpg  used on input line 346.
+Package pdftex.def Info: editArea.jpg  used on input line 354.
 (pdftex.def)             Requested size: 432.48355pt x 209.03682pt.
  [21 <./addArea.jpg> <./upA_cropped.pdf>]
-<deA_cropped.pdf, id=362, 509.905pt x 365.365pt>
+<deA_cropped.pdf, id=374, 509.905pt x 365.365pt>
 File: deA_cropped.pdf Graphic file (type pdf)
 <use deA_cropped.pdf>
-Package pdftex.def Info: deA_cropped.pdf  used on input line 353.
+Package pdftex.def Info: deA_cropped.pdf  used on input line 361.
 (pdftex.def)             Requested size: 432.48355pt x 309.90385pt.
-<deleteArea.jpg, id=363, 1057.62871pt x 515.21516pt>
+<deleteArea.jpg, id=375, 1057.62871pt x 515.21516pt>
 File: deleteArea.jpg Graphic file (type jpg)
 <use deleteArea.jpg>
-Package pdftex.def Info: deleteArea.jpg  used on input line 360.
+Package pdftex.def Info: deleteArea.jpg  used on input line 368.
 (pdftex.def)             Requested size: 432.48355pt x 210.67355pt.
  [22 <./editArea.jpg> <./deA_cropped.pdf>]
-<rules.jpg, id=390, 1011.02719pt x 494.59781pt>
+<rules.jpg, id=402, 1011.02719pt x 494.59781pt>
 File: rules.jpg Graphic file (type jpg)
 <use rules.jpg>
-Package pdftex.def Info: rules.jpg  used on input line 366.
+Package pdftex.def Info: rules.jpg  used on input line 374.
 (pdftex.def)             Requested size: 432.48355pt x 211.57104pt.
-<crR_cropped.pdf, id=391, 503.8825pt x 364.36125pt>
+<crR_cropped.pdf, id=403, 503.8825pt x 364.36125pt>
 File: crR_cropped.pdf Graphic file (type pdf)
 <use crR_cropped.pdf>
-Package pdftex.def Info: crR_cropped.pdf  used on input line 373.
+Package pdftex.def Info: crR_cropped.pdf  used on input line 381.
 (pdftex.def)             Requested size: 432.48355pt x 312.73299pt.
  [23 <./deleteArea.jpg> <./rules.jpg>]
-<addRule.jpg, id=395, 1018.55531pt x 488.57532pt>
+<addRule.jpg, id=407, 1018.55531pt x 488.57532pt>
 File: addRule.jpg Graphic file (type jpg)
 <use addRule.jpg>
-Package pdftex.def Info: addRule.jpg  used on input line 380.
+Package pdftex.def Info: addRule.jpg  used on input line 388.
 (pdftex.def)             Requested size: 432.48355pt x 207.45166pt.
-<upR_cropped.pdf, id=396, 515.9275pt x 306.14375pt>
+<upR_cropped.pdf, id=408, 515.9275pt x 306.14375pt>
 File: upR_cropped.pdf Graphic file (type pdf)
 <use upR_cropped.pdf>
-Package pdftex.def Info: upR_cropped.pdf  used on input line 387.
+Package pdftex.def Info: upR_cropped.pdf  used on input line 395.
 (pdftex.def)             Requested size: 432.48355pt x 256.63579pt.
  [24 <./crR_cropped.pdf> <./addRule.jpg>]
-<editRule.jpg, id=418, 1017.04968pt x 496.10344pt>
+<editRule.jpg, id=430, 1017.04968pt x 496.10344pt>
 File: editRule.jpg Graphic file (type jpg)
 <use editRule.jpg>
-Package pdftex.def Info: editRule.jpg  used on input line 394.
+Package pdftex.def Info: editRule.jpg  used on input line 402.
 (pdftex.def)             Requested size: 432.48355pt x 210.9585pt.
 
 
 pdfTeX warning: pdflatex.exe (file ./deR_cropped.pdf): PDF inclusion: found PDF version <2.0>, but at most version <1.5> allowed
-<deR_cropped.pdf, id=419, 500.31418pt x 354.34914pt>
+<deR_cropped.pdf, id=431, 500.31418pt x 354.34914pt>
 File: deR_cropped.pdf Graphic file (type pdf)
 <use deR_cropped.pdf>
-Package pdftex.def Info: deR_cropped.pdf  used on input line 401.
+Package pdftex.def Info: deR_cropped.pdf  used on input line 409.
 (pdftex.def)             Requested size: 432.48355pt x 306.30772pt.
 [25 <./upR_cropped.pdf> <./editRule.jpg>]
-<deleteRule.jpg, id=442, 1020.06094pt x 496.10344pt>
+<deleteRule.jpg, id=454, 1020.06094pt x 496.10344pt>
 File: deleteRule.jpg Graphic file (type jpg)
 <use deleteRule.jpg>
-Package pdftex.def Info: deleteRule.jpg  used on input line 408.
+Package pdftex.def Info: deleteRule.jpg  used on input line 416.
 (pdftex.def)             Requested size: 432.48355pt x 210.33777pt.
-<pay_cropped.pdf, id=443, 509.905pt x 389.455pt>
+<pay_cropped.pdf, id=455, 509.905pt x 389.455pt>
 File: pay_cropped.pdf Graphic file (type pdf)
 <use pay_cropped.pdf>
-Package pdftex.def Info: pay_cropped.pdf  used on input line 415.
+Package pdftex.def Info: pay_cropped.pdf  used on input line 423.
 (pdftex.def)             Requested size: 432.48355pt x 330.33708pt.
  [26 <./deR_cropped.pdf> <./deleteRule.jpg>]
-<moduly_interfejsy_komunikacyjne.pdf, id=475, 1266.7325pt x 629.35126pt>
+<moduly_interfejsy_komunikacyjne.pdf, id=488, 1266.7325pt x 629.35126pt>
 File: moduly_interfejsy_komunikacyjne.pdf Graphic file (type pdf)
 <use moduly_interfejsy_komunikacyjne.pdf>
-Package pdftex.def Info: moduly_interfejsy_komunikacyjne.pdf  used on input line 426.
+Package pdftex.def Info: moduly_interfejsy_komunikacyjne.pdf  used on input line 434.
 (pdftex.def)             Requested size: 513.5706pt x 255.16435pt.
  [27 <./pay_cropped.pdf> <./moduly_interfejsy_komunikacyjne.pdf
 
 pdfTeX warning: pdflatex.exe (file ./moduly_interfejsy_komunikacyjne.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<ProjektOprogramowania.pdf, id=523, 1067.99pt x 1465.475pt>
+<ProjektOprogramowania.pdf, id=535, 1067.99pt x 1465.475pt>
 File: ProjektOprogramowania.pdf Graphic file (type pdf)
 <use ProjektOprogramowania.pdf>
-Package pdftex.def Info: ProjektOprogramowania.pdf  used on input line 457.
+Package pdftex.def Info: ProjektOprogramowania.pdf  used on input line 465.
 (pdftex.def)             Requested size: 513.5706pt x 704.73933pt.
  [28] [29 <./ProjektOprogramowania.pdf>] [30] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 5999 strings out of 494509
- 86038 string characters out of 6176085
+ 6004 strings out of 494509
+ 86196 string characters out of 6176085
  172791 words of memory out of 5000000
- 9501 multiletter control sequences out of 15000+600000
+ 9505 multiletter control sequences out of 15000+600000
  13200 words of font info for 27 fonts, out of 8000000 for 9000
  56 hyphenation exceptions out of 8191
  41i,12n,45p,516b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfxc1728.pfb>
-Output written on main.pdf (30 pages, 3090364 bytes).
+Output written on main.pdf (30 pages, 3155363 bytes).
 PDF statistics:
- 575 PDF objects out of 1000 (max. 8388607)
- 377 compressed objects within 4 object streams
+ 587 PDF objects out of 1000 (max. 8388607)
+ 386 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 212 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 217 words of extra memory for PDF output out of 10000 (max. 10000000)
 

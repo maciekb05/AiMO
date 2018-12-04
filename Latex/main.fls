@@ -153,6 +153,9 @@ INPUT ./classes.pdf
 INPUT Stanu_cropped.pdf
 INPUT ./Stanu_cropped.pdf
 INPUT ./Stanu_cropped.pdf
+INPUT paymentStateDiagram.pdf
+INPUT ./paymentStateDiagram.pdf
+INPUT ./paymentStateDiagram.pdf
 INPUT webUseCase.PNG
 INPUT ./webUseCase.PNG
 INPUT ./webUseCase.PNG
