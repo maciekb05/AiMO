@@ -267,6 +267,12 @@ INPUT ./paymentSequenceDiagram.pdf
 INPUT toggleSequence.pdf
 INPUT ./toggleSequence.pdf
 INPUT ./toggleSequence.pdf
+INPUT usersDB.pdf
+INPUT ./usersDB.pdf
+INPUT ./usersDB.pdf
+INPUT rulesDB.pdf
+INPUT ./rulesDB.pdf
+INPUT ./rulesDB.pdf
 INPUT main.aux
 INPUT c:/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
 INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb

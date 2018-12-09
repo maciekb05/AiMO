@@ -1,0 +1,15 @@
+Do UseCaseow:
++dodac to co robi system, 
++rozronic button logi i tab login
+
+Do klas:
++nazwac role,
++dodac rodzaj platnosci do konta rodzica
+
+Do projektu oprogramowania:
+-dodac 5 diagramow sekwencji,
+
++Diagram stanow dla payment rodzica
+
+BazaDanych?
+https://hackolade.com/nosqldb.html#mongodb
