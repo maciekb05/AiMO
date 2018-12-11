@@ -1,101 +1,83 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.18)  4 DEC 2018 20:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.7)  9 DEC 2018 17:22
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**./main.tex
-(./main.tex
-LaTeX2e <2017-04-15>
-Babel <3.14> and hyphenation patterns for 84 language(s) loaded.
+**"d:/Semestr V/Analiza i modelowanie oprogramowania/Projekt/Latex/main.tex"
+(d:/Semestr V/Analiza i modelowanie oprogramowania/Projekt/Latex/main.tex
+LaTeX2e <2018-04-01> patch level 5
 (./sprawozdanie-agh.cls
 Document Class: sprawozdanie-agh 
-(c:/texlive/2017/texmf-dist/tex/latex/base/article.cls
+(c:/texlive/2018/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(c:/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+(c:/texlive/2018/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-\c@part=\count79
-\c@section=\count80
-\c@subsection=\count81
-\c@subsubsection=\count82
-\c@paragraph=\count83
-\c@subparagraph=\count84
-\c@figure=\count85
-\c@table=\count86
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)
-(c:/texlive/2017/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2017/10/04 3.14 The Babel package
-
-(c:/texlive/2017/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2017/10/04 3.14 Babel switching mechanism
-)
-(c:/texlive/2017/texmf-dist/tex/generic/babel-polish/polish.ldf
+) (c:/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/10/16 3.26 The Babel package
+ (c:/texlive/2018/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/10/16 3.26 Babel switching mechanism
+) (c:/texlive/2018/texmf-dist/tex/generic/babel-polish/polish.ldf
 Language: polish 2005/03/31 v1.2l Polish support from the babel system
-
-(c:/texlive/2017/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2017/10/04 3.14 Babel common definitions
-
-(c:/texlive/2017/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2017/10/04 3.14 Babel switching mechanism
-)
-\babel@savecnt=\count87
+ (c:/texlive/2018/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/10/16 3.26 Babel common definitions
+\babel@savecnt=\count88
 \U@D=\dimen103
+ (c:/texlive/2018/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count89
 )
 Package babel Info: Making " an active character on input line 83.
 \pl@left=\dimen104
 \pl@down=\dimen105
 \pl@right=\dimen106
 \pl@temp=\dimen107
-))
-(c:/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
+)) (c:/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
-
-(c:/texlive/2017/texmf-dist/tex/latex/base/t1enc.def
+ (c:/texlive/2018/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-))
-(c:/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+)) (c:/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
-
-(c:/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+ (c:/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
-)
-(c:/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+) (c:/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
-
-(c:/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+ (c:/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-(c:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
-
-(c:/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
+ (c:/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen108
 \Gin@req@width=\dimen109
-)
-(c:/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2010/09/12 v5.6 Page Geometry
-
-(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-)
-(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+) (c:/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+ (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+) (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
-)
-(c:/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+) (c:/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count88
-\Gm@cntv=\count89
-\c@Gm@tempcnt=\count90
+\Gm@cnth=\count90
+\Gm@cntv=\count91
+\c@Gm@tempcnt=\count92
 \Gm@bindingoffset=\dimen110
 \Gm@wd@mp=\dimen111
 \Gm@odd@mp=\dimen112
@@ -105,18 +87,14 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen116
 \Gm@layoutvoffset=\dimen117
 \Gm@dimlist=\toks15
-)
-(c:/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+) (c:/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
-
-(c:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
-)
-(c:/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
-s
+) (c:/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footers
 \f@nch@headwidth=\skip43
 \f@nch@O@elh=\skip44
 \f@nch@O@erh=\skip45
@@ -126,12 +104,10 @@ s
 \f@nch@O@erf=\skip49
 \f@nch@O@olf=\skip50
 \f@nch@O@orf=\skip51
-)
-(c:/texlive/2017/texmf-dist/tex/latex/url/url.sty
+) (c:/texlive/2018/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-(c:/texlive/2017/texmf-dist/tex/latex/titlesec/titlesec.sty
+) (c:/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box26
 \beforetitleunit=\skip52
@@ -142,8 +118,7 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \titlewidth=\dimen120
 \titlewidthlast=\dimen121
 \titlewidthfirst=\dimen122
-)
-(c:/texlive/2017/texmf-dist/tex/latex/tocloft/tocloft.sty
+) (c:/texlive/2018/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 51.
 \cftparskip=\skip54
@@ -172,409 +147,82 @@ Package tocloft Info: The document has section divisions on input line 51.
 \cftbeforefigskip=\skip77
 \cftfigindent=\skip78
 \cftfignumwidth=\skip79
-\c@lofdepth=\count91
-\c@lotdepth=\count92
+\c@lofdepth=\count93
+\c@lotdepth=\count94
 \cftbeforelottitleskip=\skip80
 \cftafterlottitleskip=\skip81
 \cftbeforetabskip=\skip82
 \cfttabindent=\skip83
 \cfttabnumwidth=\skip84
-)
-(c:/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+) (c:/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-))
-(c:/texlive/2017/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2015/03/17 v1.2c Input encoding file
+)) (c:/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-
-(c:/texlive/2017/texmf-dist/tex/latex/base/utf8.def
-File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
-Now handling font encoding OML ...
-... no UTF-8 mapping file for font encoding OML
-Now handling font encoding T1 ...
-... processing UTF-8 mapping file for font encoding T1
-
-(c:/texlive/2017/texmf-dist/tex/latex/base/t1enc.dfu
-File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
-   defining Unicode char U+00A0 (decimal 160)
-   defining Unicode char U+00A1 (decimal 161)
-   defining Unicode char U+00A3 (decimal 163)
-   defining Unicode char U+00AB (decimal 171)
-   defining Unicode char U+00AD (decimal 173)
-   defining Unicode char U+00BB (decimal 187)
-   defining Unicode char U+00BF (decimal 191)
-   defining Unicode char U+00C0 (decimal 192)
-   defining Unicode char U+00C1 (decimal 193)
-   defining Unicode char U+00C2 (decimal 194)
-   defining Unicode char U+00C3 (decimal 195)
-   defining Unicode char U+00C4 (decimal 196)
-   defining Unicode char U+00C5 (decimal 197)
-   defining Unicode char U+00C6 (decimal 198)
-   defining Unicode char U+00C7 (decimal 199)
-   defining Unicode char U+00C8 (decimal 200)
-   defining Unicode char U+00C9 (decimal 201)
-   defining Unicode char U+00CA (decimal 202)
-   defining Unicode char U+00CB (decimal 203)
-   defining Unicode char U+00CC (decimal 204)
-   defining Unicode char U+00CD (decimal 205)
-   defining Unicode char U+00CE (decimal 206)
-   defining Unicode char U+00CF (decimal 207)
-   defining Unicode char U+00D0 (decimal 208)
-   defining Unicode char U+00D1 (decimal 209)
-   defining Unicode char U+00D2 (decimal 210)
-   defining Unicode char U+00D3 (decimal 211)
-   defining Unicode char U+00D4 (decimal 212)
-   defining Unicode char U+00D5 (decimal 213)
-   defining Unicode char U+00D6 (decimal 214)
-   defining Unicode char U+00D8 (decimal 216)
-   defining Unicode char U+00D9 (decimal 217)
-   defining Unicode char U+00DA (decimal 218)
-   defining Unicode char U+00DB (decimal 219)
-   defining Unicode char U+00DC (decimal 220)
-   defining Unicode char U+00DD (decimal 221)
-   defining Unicode char U+00DE (decimal 222)
-   defining Unicode char U+00DF (decimal 223)
-   defining Unicode char U+00E0 (decimal 224)
-   defining Unicode char U+00E1 (decimal 225)
-   defining Unicode char U+00E2 (decimal 226)
-   defining Unicode char U+00E3 (decimal 227)
-   defining Unicode char U+00E4 (decimal 228)
-   defining Unicode char U+00E5 (decimal 229)
-   defining Unicode char U+00E6 (decimal 230)
-   defining Unicode char U+00E7 (decimal 231)
-   defining Unicode char U+00E8 (decimal 232)
-   defining Unicode char U+00E9 (decimal 233)
-   defining Unicode char U+00EA (decimal 234)
-   defining Unicode char U+00EB (decimal 235)
-   defining Unicode char U+00EC (decimal 236)
-   defining Unicode char U+00ED (decimal 237)
-   defining Unicode char U+00EE (decimal 238)
-   defining Unicode char U+00EF (decimal 239)
-   defining Unicode char U+00F0 (decimal 240)
-   defining Unicode char U+00F1 (decimal 241)
-   defining Unicode char U+00F2 (decimal 242)
-   defining Unicode char U+00F3 (decimal 243)
-   defining Unicode char U+00F4 (decimal 244)
-   defining Unicode char U+00F5 (decimal 245)
-   defining Unicode char U+00F6 (decimal 246)
-   defining Unicode char U+00F8 (decimal 248)
-   defining Unicode char U+00F9 (decimal 249)
-   defining Unicode char U+00FA (decimal 250)
-   defining Unicode char U+00FB (decimal 251)
-   defining Unicode char U+00FC (decimal 252)
-   defining Unicode char U+00FD (decimal 253)
-   defining Unicode char U+00FE (decimal 254)
-   defining Unicode char U+00FF (decimal 255)
-   defining Unicode char U+0100 (decimal 256)
-   defining Unicode char U+0101 (decimal 257)
-   defining Unicode char U+0102 (decimal 258)
-   defining Unicode char U+0103 (decimal 259)
-   defining Unicode char U+0104 (decimal 260)
-   defining Unicode char U+0105 (decimal 261)
-   defining Unicode char U+0106 (decimal 262)
-   defining Unicode char U+0107 (decimal 263)
-   defining Unicode char U+0108 (decimal 264)
-   defining Unicode char U+0109 (decimal 265)
-   defining Unicode char U+010A (decimal 266)
-   defining Unicode char U+010B (decimal 267)
-   defining Unicode char U+010C (decimal 268)
-   defining Unicode char U+010D (decimal 269)
-   defining Unicode char U+010E (decimal 270)
-   defining Unicode char U+010F (decimal 271)
-   defining Unicode char U+0110 (decimal 272)
-   defining Unicode char U+0111 (decimal 273)
-   defining Unicode char U+0112 (decimal 274)
-   defining Unicode char U+0113 (decimal 275)
-   defining Unicode char U+0114 (decimal 276)
-   defining Unicode char U+0115 (decimal 277)
-   defining Unicode char U+0116 (decimal 278)
-   defining Unicode char U+0117 (decimal 279)
-   defining Unicode char U+0118 (decimal 280)
-   defining Unicode char U+0119 (decimal 281)
-   defining Unicode char U+011A (decimal 282)
-   defining Unicode char U+011B (decimal 283)
-   defining Unicode char U+011C (decimal 284)
-   defining Unicode char U+011D (decimal 285)
-   defining Unicode char U+011E (decimal 286)
-   defining Unicode char U+011F (decimal 287)
-   defining Unicode char U+0120 (decimal 288)
-   defining Unicode char U+0121 (decimal 289)
-   defining Unicode char U+0122 (decimal 290)
-   defining Unicode char U+0123 (decimal 291)
-   defining Unicode char U+0124 (decimal 292)
-   defining Unicode char U+0125 (decimal 293)
-   defining Unicode char U+0128 (decimal 296)
-   defining Unicode char U+0129 (decimal 297)
-   defining Unicode char U+012A (decimal 298)
-   defining Unicode char U+012B (decimal 299)
-   defining Unicode char U+012C (decimal 300)
-   defining Unicode char U+012D (decimal 301)
-   defining Unicode char U+012E (decimal 302)
-   defining Unicode char U+012F (decimal 303)
-   defining Unicode char U+0130 (decimal 304)
-   defining Unicode char U+0131 (decimal 305)
-   defining Unicode char U+0132 (decimal 306)
-   defining Unicode char U+0133 (decimal 307)
-   defining Unicode char U+0134 (decimal 308)
-   defining Unicode char U+0135 (decimal 309)
-   defining Unicode char U+0136 (decimal 310)
-   defining Unicode char U+0137 (decimal 311)
-   defining Unicode char U+0139 (decimal 313)
-   defining Unicode char U+013A (decimal 314)
-   defining Unicode char U+013B (decimal 315)
-   defining Unicode char U+013C (decimal 316)
-   defining Unicode char U+013D (decimal 317)
-   defining Unicode char U+013E (decimal 318)
-   defining Unicode char U+0141 (decimal 321)
-   defining Unicode char U+0142 (decimal 322)
-   defining Unicode char U+0143 (decimal 323)
-   defining Unicode char U+0144 (decimal 324)
-   defining Unicode char U+0145 (decimal 325)
-   defining Unicode char U+0146 (decimal 326)
-   defining Unicode char U+0147 (decimal 327)
-   defining Unicode char U+0148 (decimal 328)
-   defining Unicode char U+014A (decimal 330)
-   defining Unicode char U+014B (decimal 331)
-   defining Unicode char U+014C (decimal 332)
-   defining Unicode char U+014D (decimal 333)
-   defining Unicode char U+014E (decimal 334)
-   defining Unicode char U+014F (decimal 335)
-   defining Unicode char U+0150 (decimal 336)
-   defining Unicode char U+0151 (decimal 337)
-   defining Unicode char U+0152 (decimal 338)
-   defining Unicode char U+0153 (decimal 339)
-   defining Unicode char U+0154 (decimal 340)
-   defining Unicode char U+0155 (decimal 341)
-   defining Unicode char U+0156 (decimal 342)
-   defining Unicode char U+0157 (decimal 343)
-   defining Unicode char U+0158 (decimal 344)
-   defining Unicode char U+0159 (decimal 345)
-   defining Unicode char U+015A (decimal 346)
-   defining Unicode char U+015B (decimal 347)
-   defining Unicode char U+015C (decimal 348)
-   defining Unicode char U+015D (decimal 349)
-   defining Unicode char U+015E (decimal 350)
-   defining Unicode char U+015F (decimal 351)
-   defining Unicode char U+0160 (decimal 352)
-   defining Unicode char U+0161 (decimal 353)
-   defining Unicode char U+0162 (decimal 354)
-   defining Unicode char U+0163 (decimal 355)
-   defining Unicode char U+0164 (decimal 356)
-   defining Unicode char U+0165 (decimal 357)
-   defining Unicode char U+0168 (decimal 360)
-   defining Unicode char U+0169 (decimal 361)
-   defining Unicode char U+016A (decimal 362)
-   defining Unicode char U+016B (decimal 363)
-   defining Unicode char U+016C (decimal 364)
-   defining Unicode char U+016D (decimal 365)
-   defining Unicode char U+016E (decimal 366)
-   defining Unicode char U+016F (decimal 367)
-   defining Unicode char U+0170 (decimal 368)
-   defining Unicode char U+0171 (decimal 369)
-   defining Unicode char U+0172 (decimal 370)
-   defining Unicode char U+0173 (decimal 371)
-   defining Unicode char U+0174 (decimal 372)
-   defining Unicode char U+0175 (decimal 373)
-   defining Unicode char U+0176 (decimal 374)
-   defining Unicode char U+0177 (decimal 375)
-   defining Unicode char U+0178 (decimal 376)
-   defining Unicode char U+0179 (decimal 377)
-   defining Unicode char U+017A (decimal 378)
-   defining Unicode char U+017B (decimal 379)
-   defining Unicode char U+017C (decimal 380)
-   defining Unicode char U+017D (decimal 381)
-   defining Unicode char U+017E (decimal 382)
-   defining Unicode char U+01CD (decimal 461)
-   defining Unicode char U+01CE (decimal 462)
-   defining Unicode char U+01CF (decimal 463)
-   defining Unicode char U+01D0 (decimal 464)
-   defining Unicode char U+01D1 (decimal 465)
-   defining Unicode char U+01D2 (decimal 466)
-   defining Unicode char U+01D3 (decimal 467)
-   defining Unicode char U+01D4 (decimal 468)
-   defining Unicode char U+01E2 (decimal 482)
-   defining Unicode char U+01E3 (decimal 483)
-   defining Unicode char U+01E6 (decimal 486)
-   defining Unicode char U+01E7 (decimal 487)
-   defining Unicode char U+01E8 (decimal 488)
-   defining Unicode char U+01E9 (decimal 489)
-   defining Unicode char U+01EA (decimal 490)
-   defining Unicode char U+01EB (decimal 491)
-   defining Unicode char U+01F0 (decimal 496)
-   defining Unicode char U+01F4 (decimal 500)
-   defining Unicode char U+01F5 (decimal 501)
-   defining Unicode char U+0218 (decimal 536)
-   defining Unicode char U+0219 (decimal 537)
-   defining Unicode char U+021A (decimal 538)
-   defining Unicode char U+021B (decimal 539)
-   defining Unicode char U+0232 (decimal 562)
-   defining Unicode char U+0233 (decimal 563)
-   defining Unicode char U+1E02 (decimal 7682)
-   defining Unicode char U+1E03 (decimal 7683)
-   defining Unicode char U+200C (decimal 8204)
-   defining Unicode char U+2010 (decimal 8208)
-   defining Unicode char U+2011 (decimal 8209)
-   defining Unicode char U+2012 (decimal 8210)
-   defining Unicode char U+2013 (decimal 8211)
-   defining Unicode char U+2014 (decimal 8212)
-   defining Unicode char U+2015 (decimal 8213)
-   defining Unicode char U+2018 (decimal 8216)
-   defining Unicode char U+2019 (decimal 8217)
-   defining Unicode char U+201A (decimal 8218)
-   defining Unicode char U+201C (decimal 8220)
-   defining Unicode char U+201D (decimal 8221)
-   defining Unicode char U+201E (decimal 8222)
-   defining Unicode char U+2030 (decimal 8240)
-   defining Unicode char U+2031 (decimal 8241)
-   defining Unicode char U+2039 (decimal 8249)
-   defining Unicode char U+203A (decimal 8250)
-   defining Unicode char U+2423 (decimal 9251)
-   defining Unicode char U+1E20 (decimal 7712)
-   defining Unicode char U+1E21 (decimal 7713)
-)
-Now handling font encoding OT1 ...
-... processing UTF-8 mapping file for font encoding OT1
-
-(c:/texlive/2017/texmf-dist/tex/latex/base/ot1enc.dfu
-File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
-   defining Unicode char U+00A0 (decimal 160)
-   defining Unicode char U+00A1 (decimal 161)
-   defining Unicode char U+00A3 (decimal 163)
-   defining Unicode char U+00AD (decimal 173)
-   defining Unicode char U+00B8 (decimal 184)
-   defining Unicode char U+00BF (decimal 191)
-   defining Unicode char U+00C5 (decimal 197)
-   defining Unicode char U+00C6 (decimal 198)
-   defining Unicode char U+00D8 (decimal 216)
-   defining Unicode char U+00DF (decimal 223)
-   defining Unicode char U+00E6 (decimal 230)
-   defining Unicode char U+00EC (decimal 236)
-   defining Unicode char U+00ED (decimal 237)
-   defining Unicode char U+00EE (decimal 238)
-   defining Unicode char U+00EF (decimal 239)
-   defining Unicode char U+00F8 (decimal 248)
-   defining Unicode char U+0131 (decimal 305)
-   defining Unicode char U+0141 (decimal 321)
-   defining Unicode char U+0142 (decimal 322)
-   defining Unicode char U+0152 (decimal 338)
-   defining Unicode char U+0153 (decimal 339)
-   defining Unicode char U+0174 (decimal 372)
-   defining Unicode char U+0175 (decimal 373)
-   defining Unicode char U+0176 (decimal 374)
-   defining Unicode char U+0177 (decimal 375)
-   defining Unicode char U+0218 (decimal 536)
-   defining Unicode char U+0219 (decimal 537)
-   defining Unicode char U+021A (decimal 538)
-   defining Unicode char U+021B (decimal 539)
-   defining Unicode char U+2013 (decimal 8211)
-   defining Unicode char U+2014 (decimal 8212)
-   defining Unicode char U+2018 (decimal 8216)
-   defining Unicode char U+2019 (decimal 8217)
-   defining Unicode char U+201C (decimal 8220)
-   defining Unicode char U+201D (decimal 8221)
-)
-Now handling font encoding OMS ...
-... processing UTF-8 mapping file for font encoding OMS
-
-(c:/texlive/2017/texmf-dist/tex/latex/base/omsenc.dfu
-File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
-   defining Unicode char U+00A7 (decimal 167)
-   defining Unicode char U+00B6 (decimal 182)
-   defining Unicode char U+00B7 (decimal 183)
-   defining Unicode char U+2020 (decimal 8224)
-   defining Unicode char U+2021 (decimal 8225)
-   defining Unicode char U+2022 (decimal 8226)
-)
-Now handling font encoding OMX ...
-... no UTF-8 mapping file for font encoding OMX
-Now handling font encoding U ...
-... no UTF-8 mapping file for font encoding U
-   defining Unicode char U+00A9 (decimal 169)
-   defining Unicode char U+00AA (decimal 170)
-   defining Unicode char U+00AE (decimal 174)
-   defining Unicode char U+00BA (decimal 186)
-   defining Unicode char U+02C6 (decimal 710)
-   defining Unicode char U+02DC (decimal 732)
-   defining Unicode char U+200C (decimal 8204)
-   defining Unicode char U+2026 (decimal 8230)
-   defining Unicode char U+2122 (decimal 8482)
-   defining Unicode char U+2423 (decimal 9251)
-))
-(c:/texlive/2017/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count93
+) (c:/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count95
 \lst@gtempboxa=\box27
 \lst@token=\toks19
-\lst@length=\count94
+\lst@length=\count96
 \lst@currlwidth=\dimen123
-\lst@column=\count95
-\lst@pos=\count96
+\lst@column=\count97
+\lst@pos=\count98
 \lst@lostspace=\dimen124
 \lst@width=\dimen125
-\lst@newlines=\count97
-\lst@lineno=\count98
+\lst@newlines=\count99
+\lst@lineno=\count100
 \lst@maxwidth=\dimen126
-
-(c:/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count99
-\lst@skipnumbers=\count100
+ (c:/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+\c@lstnumber=\count101
+\lst@skipnumbers=\count102
 \lst@framebox=\box28
-)
-(c:/texlive/2017/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2015/06/04 1.6 listings configuration
+) (c:/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2018/09/02 1.7 listings configuration
 ))
-Package: listings 2015/06/04 1.6 (Carsten Heinz)
-
-(c:/texlive/2017/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-Package: pdfpages 2017/08/14 v0.5k Insert pages of external PDF documents (AM)
-
-(c:/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count101
-\calc@Bcount=\count102
+Package: listings 2018/09/02 1.7 (Carsten Heinz)
+ (c:/texlive/2018/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+ (c:/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count103
+\calc@Bcount=\count104
 \calc@Adimen=\dimen127
 \calc@Bdimen=\dimen128
 \calc@Askip=\skip85
 \calc@Bskip=\skip86
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count103
+\calc@Ccount=\count105
 \calc@Cskip=\skip87
-)
-(c:/texlive/2017/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
-
-(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+) (c:/texlive/2018/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+ (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/atbegshi.sty
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
-
-(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+ (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+) (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
 \AM@pagewidth=\dimen129
 \AM@pageheight=\dimen130
-
-(c:/texlive/2017/texmf-dist/tex/latex/pdfpages/pppdftex.def
-File: pppdftex.def 2017/08/14 v0.5k Pdfpages driver for pdfTeX (AM)
+ (c:/texlive/2018/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box29
 \AM@global@opts=\toks20
 \AM@toc@title=\toks21
-\c@AM@survey=\count104
+\c@AM@survey=\count106
 \AM@templatesizebox=\box30
-)
-(c:/texlive/2017/texmf-dist/tex/latex/float/float.sty
+) (c:/texlive/2018/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count105
+\c@float@type=\count107
 \float@exts=\toks22
 \float@box=\box31
 \@float@everytoks=\toks23
 \@floatcapt=\box32
-)
-(c:/texlive/2017/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
+) (c:/texlive/2018/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
 Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
 ) (./main.aux)
 \openout1 = `main.aux'.
@@ -591,38 +239,32 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
-(c:/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count106
+\scratchcounter=\count108
 \scratchdimen=\dimen131
 \scratchbox=\box33
-\nofMPsegments=\count107
-\nofMParguments=\count108
+\nofMPsegments=\count109
+\nofMParguments=\count110
 \everyMPshowfont=\toks24
-\MPscratchCnt=\count109
+\MPscratchCnt=\count111
 \MPscratchDim=\dimen132
-\MPnumerator=\count110
-\makeMPintoPDFobject=\count111
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
 \everyMPtoPDFconversion=\toks25
-) (c:/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+ (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+ (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
-(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+)) (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+ (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+ (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+ (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -630,25 +272,19 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
-)))
-(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
-)
+))) (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-
-(c:/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+ (c:/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -688,12 +324,11 @@ Package geometry Warning: The marginal notes overrun the paper.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count112
+\c@lstlisting=\count114
 \AtBeginShipoutBox=\box34
-(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
-
-(c:/texlive/2017/texmf-dist/tex/latex/graphics/lscape.sty
+ (c:/texlive/2018/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
@@ -701,420 +336,329 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 <logo-agh.jpg, id=1, 73.2336pt x 142.6128pt>
 File: logo-agh.jpg Graphic file (type jpg)
 <use logo-agh.jpg>
-Package pdftex.def Info: logo-agh.jpg  used on input line 21. on input line 21.
-
-Package pdftex.def Info: Requested size: 58.58693pt x 114.09036pt on input line
- 21.
+Package pdftex.def Info: logo-agh.jpg  used on input line 21.
+(pdftex.def)             Requested size: 58.58693pt x 114.09036pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 21.
  [1
 
-{c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logo-agh.jpg>
-]
+{c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logo-agh.jpg>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 82.
-
-(c:/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
+ (c:/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 82.
  [2]
-<Business_Activity_Diagram.pdf, id=22, pagebox=cropbox, 1101.71597pt x 2127.146
-96pt>
+<Business_Activity_Diagram.pdf, id=22, 1101.71597pt x 2127.14696pt>
 File: Business_Activity_Diagram.pdf Graphic file (type pdf)
 <use Business_Activity_Diagram.pdf>
 Package pdftex.def Info: Business_Activity_Diagram.pdf  used on input line 128.
- on input line 128.
-Package pdftex.def Info: Requested size: 393.45702pt x 759.6886pt on input line
- 128.
+(pdftex.def)             Requested size: 393.45702pt x 759.6886pt.
  [3]
 Overfull \vbox (23.43121pt too high) has occurred while \output is active []
 
-
-[4 <./Business_Activity_Diagram.pdf>]
-<cropped_Registration_Activity_Diagram.pdf, id=45, pagebox=cropbox, 992.70876pt
- x 863.225pt>
+ [4 <./Business_Activity_Diagram.pdf>]
+<cropped_Registration_Activity_Diagram.pdf, id=45, 992.70876pt x 863.225pt>
 File: cropped_Registration_Activity_Diagram.pdf Graphic file (type pdf)
 <use cropped_Registration_Activity_Diagram.pdf>
-Package pdftex.def Info: cropped_Registration_Activity_Diagram.pdf  used on inp
-ut line 136. on input line 136.
-Package pdftex.def Info: Requested size: 513.5706pt x 446.5877pt on input line 
-136.
-<Login_cropped.pdf, id=46, pagebox=cropbox, 586.94281pt x 752.31062pt>
+Package pdftex.def Info: cropped_Registration_Activity_Diagram.pdf  used on input line 136.
+(pdftex.def)             Requested size: 513.5706pt x 446.5877pt.
+<Login_cropped.pdf, id=46, 586.94281pt x 752.31062pt>
 File: Login_cropped.pdf Graphic file (type pdf)
 <use Login_cropped.pdf>
-Package pdftex.def Info: Login_cropped.pdf  used on input line 144. on input li
-ne 144.
-Package pdftex.def Info: Requested size: 513.5706pt x 658.27017pt on input line
- 144.
+Package pdftex.def Info: Login_cropped.pdf  used on input line 144.
+(pdftex.def)             Requested size: 513.5706pt x 658.27017pt.
  [5 <./cropped_Registration_Activity_Diagram.pdf>]
-<crudCreate_cropped.pdf, id=66, pagebox=cropbox, 586.94281pt x 642.90187pt>
+<crudCreate_cropped.pdf, id=66, 586.94281pt x 642.90187pt>
 File: crudCreate_cropped.pdf Graphic file (type pdf)
 <use crudCreate_cropped.pdf>
-Package pdftex.def Info: crudCreate_cropped.pdf  used on input line 152. on inp
-ut line 152.
-Package pdftex.def Info: Requested size: 513.5706pt x 562.53775pt on input line
- 152.
+Package pdftex.def Info: crudCreate_cropped.pdf  used on input line 152.
+(pdftex.def)             Requested size: 513.5706pt x 562.53775pt.
  [6 <./Login_cropped.pdf>]
-<crudUpdate_cropped.pdf, id=86, pagebox=cropbox, 586.94281pt x 667.99562pt>
+<crudUpdate_cropped.pdf, id=86, 586.94281pt x 667.99562pt>
 File: crudUpdate_cropped.pdf Graphic file (type pdf)
 <use crudUpdate_cropped.pdf>
-Package pdftex.def Info: crudUpdate_cropped.pdf  used on input line 160. on inp
-ut line 160.
-Package pdftex.def Info: Requested size: 513.5706pt x 584.49474pt on input line
- 160.
+Package pdftex.def Info: crudUpdate_cropped.pdf  used on input line 160.
+(pdftex.def)             Requested size: 513.5706pt x 584.49474pt.
  [7 <./crudCreate_cropped.pdf>]
-<crudDelete_cropped.pdf, id=99, pagebox=cropbox, 586.94281pt x 651.93562pt>
+<crudDelete_cropped.pdf, id=99, 586.94281pt x 651.93562pt>
 File: crudDelete_cropped.pdf Graphic file (type pdf)
 <use crudDelete_cropped.pdf>
-Package pdftex.def Info: crudDelete_cropped.pdf  used on input line 168. on inp
-ut line 168.
-Package pdftex.def Info: Requested size: 513.5706pt x 570.44226pt on input line
- 168.
+Package pdftex.def Info: crudDelete_cropped.pdf  used on input line 168.
+(pdftex.def)             Requested size: 513.5706pt x 570.44226pt.
  [8 <./crudUpdate_cropped.pdf>] [9 <./crudDelete_cropped.pdf>]
-<classes.pdf, id=122, pagebox=cropbox, 551.2595pt x 739.16153pt>
+<classes.pdf, id=122, 551.2595pt x 739.16153pt>
 File: classes.pdf Graphic file (type pdf)
 <use classes.pdf>
-Package pdftex.def Info: classes.pdf  used on input line 191. on input line 191
-.
-Package pdftex.def Info: Requested size: 513.5706pt x 688.63123pt on input line
- 191.
-<Stanu_cropped.pdf, id=123, pagebox=cropbox, 666.74094pt x 359.84438pt>
+Package pdftex.def Info: classes.pdf  used on input line 191.
+(pdftex.def)             Requested size: 513.5706pt x 688.63123pt.
+<Stanu_cropped.pdf, id=123, 666.74094pt x 359.84438pt>
 File: Stanu_cropped.pdf Graphic file (type pdf)
 <use Stanu_cropped.pdf>
-Package pdftex.def Info: Stanu_cropped.pdf  used on input line 201. on input li
-ne 201.
-Package pdftex.def Info: Requested size: 513.5706pt x 277.19632pt on input line
- 201.
+Package pdftex.def Info: Stanu_cropped.pdf  used on input line 201.
+(pdftex.def)             Requested size: 513.5706pt x 277.19632pt.
  [10 <./classes.pdf>]
-<paymentStateDiagram.pdf, id=135, pagebox=cropbox, 638.78653pt x 254.75175pt>
+<paymentStateDiagram.pdf, id=135, 638.78653pt x 254.75175pt>
 File: paymentStateDiagram.pdf Graphic file (type pdf)
 <use paymentStateDiagram.pdf>
-Package pdftex.def Info: paymentStateDiagram.pdf  used on input line 209. on in
-put line 209.
-Package pdftex.def Info: Requested size: 513.5706pt x 204.82399pt on input line
- 209.
+Package pdftex.def Info: paymentStateDiagram.pdf  used on input line 209.
+(pdftex.def)             Requested size: 513.5706pt x 204.82399pt.
 <webUseCase.png, id=136, 629.9535pt x 593.21625pt>
 File: webUseCase.png Graphic file (type png)
 <use webUseCase.png>
-Package pdftex.def Info: webUseCase.png  used on input line 221. on input line 
-221.
-Package pdftex.def Info: Requested size: 432.48355pt x 407.26491pt on input lin
-e 221.
+Package pdftex.def Info: webUseCase.png  used on input line 221.
+(pdftex.def)             Requested size: 432.48355pt x 407.26491pt.
  [11 <./Stanu_cropped.pdf> <./paymentStateDiagram.pdf
 
-pdfTeX warning: pdflatex.exe (file ./paymentStateDiagram.pdf): PDF inclusion: m
-ultiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex.exe (file ./paymentStateDiagram.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<parentUseCase.pdf, id=165, pagebox=cropbox, 451.6875pt x 244.915pt>
+<parentUseCase.pdf, id=165, 451.6875pt x 244.915pt>
 File: parentUseCase.pdf Graphic file (type pdf)
 <use parentUseCase.pdf>
-Package pdftex.def Info: parentUseCase.pdf  used on input line 229. on input li
-ne 229.
-Package pdftex.def Info: Requested size: 432.48355pt x 234.51778pt on input lin
-e 229.
-<childUseCase.pdf, id=166, pagebox=cropbox, 445.665pt x 349.305pt>
+Package pdftex.def Info: parentUseCase.pdf  used on input line 229.
+(pdftex.def)             Requested size: 432.48355pt x 234.51778pt.
+<childUseCase.pdf, id=166, 445.665pt x 349.305pt>
 File: childUseCase.pdf Graphic file (type pdf)
 <use childUseCase.pdf>
-Package pdftex.def Info: childUseCase.pdf  used on input line 237. on input lin
-e 237.
-Package pdftex.def Info: Requested size: 432.48355pt x 338.97467pt on input lin
-e 237.
- [12 <./webUseCase.png> <./parentUseCase.pdf>]
-<log_cropped.pdf, id=178, pagebox=cropbox, 515.9275pt x 466.74374pt>
+Package pdftex.def Info: childUseCase.pdf  used on input line 237.
+(pdftex.def)             Requested size: 432.48355pt x 338.97467pt.
+ [12 <./webUseCase.PNG> <./parentUseCase.pdf>]
+<log_cropped.pdf, id=178, 515.9275pt x 466.74374pt>
 File: log_cropped.pdf Graphic file (type pdf)
 <use log_cropped.pdf>
-Package pdftex.def Info: log_cropped.pdf  used on input line 245. on input line
- 245.
-Package pdftex.def Info: Requested size: 432.48355pt x 391.2644pt on input line
- 245.
+Package pdftex.def Info: log_cropped.pdf  used on input line 245.
+(pdftex.def)             Requested size: 432.48355pt x 391.2644pt.
  [13 <./childUseCase.pdf>]
 <signinIn.jpg, id=191, 1039.75548pt x 510.55258pt>
 File: signinIn.jpg Graphic file (type jpg)
 <use signinIn.jpg>
-Package pdftex.def Info: signinIn.jpg  used on input line 252. on input line 25
-2.
-Package pdftex.def Info: Requested size: 432.48355pt x 212.35837pt on input lin
-e 252.
-<reg_cropped.pdf, id=192, pagebox=cropbox, 509.905pt x 407.5225pt>
+Package pdftex.def Info: signinIn.jpg  used on input line 252.
+(pdftex.def)             Requested size: 432.48355pt x 212.35837pt.
+<reg_cropped.pdf, id=192, 509.905pt x 407.5225pt>
 File: reg_cropped.pdf Graphic file (type pdf)
 <use reg_cropped.pdf>
-Package pdftex.def Info: reg_cropped.pdf  used on input line 259. on input line
- 259.
-Package pdftex.def Info: Requested size: 432.48355pt x 345.662pt on input line 
-259.
-
-[14 <./log_cropped.pdf> <./signinIn.jpg>]
+Package pdftex.def Info: reg_cropped.pdf  used on input line 259.
+(pdftex.def)             Requested size: 432.48355pt x 345.662pt.
+ [14 <./log_cropped.pdf> <./signinIn.jpg>]
 <register.jpg, id=219, 1034.31581pt x 504.3358pt>
 File: register.jpg Graphic file (type jpg)
 <use register.jpg>
-Package pdftex.def Info: register.jpg  used on input line 266. on input line 26
-6.
-Package pdftex.def Info: Requested size: 432.48355pt x 210.87303pt on input lin
-e 266.
+Package pdftex.def Info: register.jpg  used on input line 266.
+(pdftex.def)             Requested size: 432.48355pt x 210.87303pt.
 <dashboard.jpg, id=220, 1043.64096pt x 508.99838pt>
 File: dashboard.jpg Graphic file (type jpg)
 <use dashboard.jpg>
-Package pdftex.def Info: dashboard.jpg  used on input line 272. on input line 2
-72.
-Package pdftex.def Info: Requested size: 432.48355pt x 210.92749pt on input lin
-e 272.
+Package pdftex.def Info: dashboard.jpg  used on input line 272.
+(pdftex.def)             Requested size: 432.48355pt x 210.92749pt.
  [15 <./reg_cropped.pdf> <./register.jpg>]
 <children.jpg, id=247, 1038.9784pt x 512.10678pt>
 File: children.jpg Graphic file (type jpg)
 <use children.jpg>
-Package pdftex.def Info: children.jpg  used on input line 278. on input line 27
-8.
-Package pdftex.def Info: Requested size: 432.48355pt x 213.16891pt on input lin
-e 278.
-<crC_cropped.pdf, id=248, pagebox=cropbox, 503.8825pt x 314.17375pt>
+Package pdftex.def Info: children.jpg  used on input line 278.
+(pdftex.def)             Requested size: 432.48355pt x 213.16891pt.
+<crC_cropped.pdf, id=248, 503.8825pt x 314.17375pt>
 File: crC_cropped.pdf Graphic file (type pdf)
 <use crC_cropped.pdf>
-Package pdftex.def Info: crC_cropped.pdf  used on input line 285. on input line
- 285.
-Package pdftex.def Info: Requested size: 432.48355pt x 269.65681pt on input lin
-e 285.
+Package pdftex.def Info: crC_cropped.pdf  used on input line 285.
+(pdftex.def)             Requested size: 432.48355pt x 269.65681pt.
  [16 <./dashboard.jpg> <./children.jpg>]
 <addChild.jpg, id=252, 1051.41194pt x 510.55258pt>
 File: addChild.jpg Graphic file (type jpg)
 <use addChild.jpg>
-Package pdftex.def Info: addChild.jpg  used on input line 292. on input line 29
-2.
-Package pdftex.def Info: Requested size: 432.48355pt x 210.00568pt on input lin
-e 292.
-<upC_cropped.pdf, id=253, pagebox=cropbox, 515.9275pt x 306.14375pt>
+Package pdftex.def Info: addChild.jpg  used on input line 292.
+(pdftex.def)             Requested size: 432.48355pt x 210.00568pt.
+<upC_cropped.pdf, id=253, 515.9275pt x 306.14375pt>
 File: upC_cropped.pdf Graphic file (type pdf)
 <use upC_cropped.pdf>
-Package pdftex.def Info: upC_cropped.pdf  used on input line 299. on input line
- 299.
-Package pdftex.def Info: Requested size: 432.48355pt x 256.63579pt on input lin
-e 299.
+Package pdftex.def Info: upC_cropped.pdf  used on input line 299.
+(pdftex.def)             Requested size: 432.48355pt x 256.63579pt.
  [17 <./crC_cropped.pdf> <./addChild.jpg>]
 <editChild.jpg, id=275, 1049.85774pt x 513.66096pt>
 File: editChild.jpg Graphic file (type jpg)
 <use editChild.jpg>
-Package pdftex.def Info: editChild.jpg  used on input line 306. on input line 3
-06.
-Package pdftex.def Info: Requested size: 432.48355pt x 211.59776pt on input lin
-e 306.
+Package pdftex.def Info: editChild.jpg  used on input line 306.
+(pdftex.def)             Requested size: 432.48355pt x 211.59776pt.
 
 
-pdfTeX warning: pdflatex.exe (file ./deC_cropped.pdf): PDF inclusion: found PDF
- version <2.0>, but at most version <1.5> allowed
-<deC_cropped.pdf, id=276, pagebox=cropbox, 497.25414pt x 351.29434pt>
+pdfTeX warning: pdflatex.exe (file ./deC_cropped.pdf): PDF inclusion: found PDF version <2.0>, but at most version <1.5> allowed
+<deC_cropped.pdf, id=276, 497.25414pt x 351.29434pt>
 File: deC_cropped.pdf Graphic file (type pdf)
 <use deC_cropped.pdf>
-Package pdftex.def Info: deC_cropped.pdf  used on input line 313. on input line
- 313.
-Package pdftex.def Info: Requested size: 432.48355pt x 305.53247pt on input lin
-e 313.
+Package pdftex.def Info: deC_cropped.pdf  used on input line 313.
+(pdftex.def)             Requested size: 432.48355pt x 305.53247pt.
 [18 <./upC_cropped.pdf> <./editChild.jpg>]
 <deleteChild.jpg, id=298, 1052.96613pt x 508.99838pt>
 File: deleteChild.jpg Graphic file (type jpg)
 <use deleteChild.jpg>
-Package pdftex.def Info: deleteChild.jpg  used on input line 320. on input line
- 320.
-Package pdftex.def Info: Requested size: 432.48355pt x 209.06348pt on input lin
-e 320.
+Package pdftex.def Info: deleteChild.jpg  used on input line 320.
+(pdftex.def)             Requested size: 432.48355pt x 209.06348pt.
 <areas.jpg, id=299, 1037.4242pt x 512.10678pt>
 File: areas.jpg Graphic file (type jpg)
 <use areas.jpg>
-Package pdftex.def Info: areas.jpg  used on input line 326. on input line 326.
-Package pdftex.def Info: Requested size: 432.48355pt x 213.48929pt on input lin
-e 326.
+Package pdftex.def Info: areas.jpg  used on input line 326.
+(pdftex.def)             Requested size: 432.48355pt x 213.48929pt.
  [19 <./deC_cropped.pdf> <./deleteChild.jpg>]
-<crA_cropped.pdf, id=328, pagebox=cropbox, 503.8825pt x 339.2675pt>
+<crA_cropped.pdf, id=328, 503.8825pt x 339.2675pt>
 File: crA_cropped.pdf Graphic file (type pdf)
 <use crA_cropped.pdf>
-Package pdftex.def Info: crA_cropped.pdf  used on input line 333. on input line
- 333.
-Package pdftex.def Info: Requested size: 432.48355pt x 291.1949pt on input line
- 333.
+Package pdftex.def Info: crA_cropped.pdf  used on input line 333.
+(pdftex.def)             Requested size: 432.48355pt x 291.1949pt.
 <addArea.jpg, id=329, 1052.96613pt x 507.4442pt>
 File: addArea.jpg Graphic file (type jpg)
 <use addArea.jpg>
-Package pdftex.def Info: addArea.jpg  used on input line 340. on input line 340
-.
-Package pdftex.def Info: Requested size: 432.48355pt x 208.42513pt on input lin
-e 340.
+Package pdftex.def Info: addArea.jpg  used on input line 340.
+(pdftex.def)             Requested size: 432.48355pt x 208.42513pt.
  [20 <./areas.jpg> <./crA_cropped.pdf>]
-<upA_cropped.pdf, id=351, pagebox=cropbox, 509.905pt x 305.14pt>
+<upA_cropped.pdf, id=351, 509.905pt x 305.14pt>
 File: upA_cropped.pdf Graphic file (type pdf)
 <use upA_cropped.pdf>
-Package pdftex.def Info: upA_cropped.pdf  used on input line 347. on input line
- 347.
-Package pdftex.def Info: Requested size: 432.48355pt x 258.82079pt on input lin
-e 347.
+Package pdftex.def Info: upA_cropped.pdf  used on input line 347.
+(pdftex.def)             Requested size: 432.48355pt x 258.82079pt.
 <editArea.jpg, id=352, 1049.85774pt x 507.4442pt>
 File: editArea.jpg Graphic file (type jpg)
 <use editArea.jpg>
-Package pdftex.def Info: editArea.jpg  used on input line 354. on input line 35
-4.
-Package pdftex.def Info: Requested size: 432.48355pt x 209.03682pt on input lin
-e 354.
+Package pdftex.def Info: editArea.jpg  used on input line 354.
+(pdftex.def)             Requested size: 432.48355pt x 209.03682pt.
  [21 <./addArea.jpg> <./upA_cropped.pdf>]
-<deA_cropped.pdf, id=374, pagebox=cropbox, 509.905pt x 365.365pt>
+<deA_cropped.pdf, id=374, 509.905pt x 365.365pt>
 File: deA_cropped.pdf Graphic file (type pdf)
 <use deA_cropped.pdf>
-Package pdftex.def Info: deA_cropped.pdf  used on input line 361. on input line
- 361.
-Package pdftex.def Info: Requested size: 432.48355pt x 309.90385pt on input lin
-e 361.
+Package pdftex.def Info: deA_cropped.pdf  used on input line 361.
+(pdftex.def)             Requested size: 432.48355pt x 309.90385pt.
 <deleteArea.jpg, id=375, 1057.62871pt x 515.21516pt>
 File: deleteArea.jpg Graphic file (type jpg)
 <use deleteArea.jpg>
-Package pdftex.def Info: deleteArea.jpg  used on input line 368. on input line 
-368.
-Package pdftex.def Info: Requested size: 432.48355pt x 210.67355pt on input lin
-e 368.
+Package pdftex.def Info: deleteArea.jpg  used on input line 368.
+(pdftex.def)             Requested size: 432.48355pt x 210.67355pt.
  [22 <./editArea.jpg> <./deA_cropped.pdf>]
 <rules.jpg, id=402, 1011.02719pt x 494.59781pt>
 File: rules.jpg Graphic file (type jpg)
 <use rules.jpg>
-Package pdftex.def Info: rules.jpg  used on input line 374. on input line 374.
-Package pdftex.def Info: Requested size: 432.48355pt x 211.57104pt on input lin
-e 374.
-<crR_cropped.pdf, id=403, pagebox=cropbox, 503.8825pt x 364.36125pt>
+Package pdftex.def Info: rules.jpg  used on input line 374.
+(pdftex.def)             Requested size: 432.48355pt x 211.57104pt.
+<crR_cropped.pdf, id=403, 503.8825pt x 364.36125pt>
 File: crR_cropped.pdf Graphic file (type pdf)
 <use crR_cropped.pdf>
-Package pdftex.def Info: crR_cropped.pdf  used on input line 381. on input line
- 381.
-Package pdftex.def Info: Requested size: 432.48355pt x 312.73299pt on input lin
-e 381.
+Package pdftex.def Info: crR_cropped.pdf  used on input line 381.
+(pdftex.def)             Requested size: 432.48355pt x 312.73299pt.
  [23 <./deleteArea.jpg> <./rules.jpg>]
 <addRule.jpg, id=407, 1018.55531pt x 488.57532pt>
 File: addRule.jpg Graphic file (type jpg)
 <use addRule.jpg>
-Package pdftex.def Info: addRule.jpg  used on input line 388. on input line 388
-.
-Package pdftex.def Info: Requested size: 432.48355pt x 207.45166pt on input lin
-e 388.
-<upR_cropped.pdf, id=408, pagebox=cropbox, 515.9275pt x 306.14375pt>
+Package pdftex.def Info: addRule.jpg  used on input line 388.
+(pdftex.def)             Requested size: 432.48355pt x 207.45166pt.
+<upR_cropped.pdf, id=408, 515.9275pt x 306.14375pt>
 File: upR_cropped.pdf Graphic file (type pdf)
 <use upR_cropped.pdf>
-Package pdftex.def Info: upR_cropped.pdf  used on input line 395. on input line
- 395.
-Package pdftex.def Info: Requested size: 432.48355pt x 256.63579pt on input lin
-e 395.
+Package pdftex.def Info: upR_cropped.pdf  used on input line 395.
+(pdftex.def)             Requested size: 432.48355pt x 256.63579pt.
  [24 <./crR_cropped.pdf> <./addRule.jpg>]
 <editRule.jpg, id=430, 1017.04968pt x 496.10344pt>
 File: editRule.jpg Graphic file (type jpg)
 <use editRule.jpg>
-Package pdftex.def Info: editRule.jpg  used on input line 402. on input line 40
-2.
-Package pdftex.def Info: Requested size: 432.48355pt x 210.9585pt on input line
- 402.
+Package pdftex.def Info: editRule.jpg  used on input line 402.
+(pdftex.def)             Requested size: 432.48355pt x 210.9585pt.
 
 
-pdfTeX warning: pdflatex.exe (file ./deR_cropped.pdf): PDF inclusion: found PDF
- version <2.0>, but at most version <1.5> allowed
-<deR_cropped.pdf, id=431, pagebox=cropbox, 500.31418pt x 354.34914pt>
+pdfTeX warning: pdflatex.exe (file ./deR_cropped.pdf): PDF inclusion: found PDF version <2.0>, but at most version <1.5> allowed
+<deR_cropped.pdf, id=431, 500.31418pt x 354.34914pt>
 File: deR_cropped.pdf Graphic file (type pdf)
 <use deR_cropped.pdf>
-Package pdftex.def Info: deR_cropped.pdf  used on input line 409. on input line
- 409.
-Package pdftex.def Info: Requested size: 432.48355pt x 306.30772pt on input lin
-e 409.
+Package pdftex.def Info: deR_cropped.pdf  used on input line 409.
+(pdftex.def)             Requested size: 432.48355pt x 306.30772pt.
 [25 <./upR_cropped.pdf> <./editRule.jpg>]
 <deleteRule.jpg, id=454, 1020.06094pt x 496.10344pt>
 File: deleteRule.jpg Graphic file (type jpg)
 <use deleteRule.jpg>
-Package pdftex.def Info: deleteRule.jpg  used on input line 416. on input line 
-416.
-Package pdftex.def Info: Requested size: 432.48355pt x 210.33777pt on input lin
-e 416.
-<pay_cropped.pdf, id=455, pagebox=cropbox, 509.905pt x 389.455pt>
+Package pdftex.def Info: deleteRule.jpg  used on input line 416.
+(pdftex.def)             Requested size: 432.48355pt x 210.33777pt.
+<pay_cropped.pdf, id=455, 509.905pt x 389.455pt>
 File: pay_cropped.pdf Graphic file (type pdf)
 <use pay_cropped.pdf>
-Package pdftex.def Info: pay_cropped.pdf  used on input line 423. on input line
- 423.
-Package pdftex.def Info: Requested size: 432.48355pt x 330.33708pt on input lin
-e 423.
+Package pdftex.def Info: pay_cropped.pdf  used on input line 423.
+(pdftex.def)             Requested size: 432.48355pt x 330.33708pt.
  [26 <./deR_cropped.pdf> <./deleteRule.jpg>]
-<moduly_interfejsy_komunikacyjne.pdf, id=488, pagebox=cropbox, 1266.7325pt x 62
-9.35126pt>
+<moduly_interfejsy_komunikacyjne.pdf, id=488, 1266.7325pt x 629.35126pt>
 File: moduly_interfejsy_komunikacyjne.pdf Graphic file (type pdf)
 <use moduly_interfejsy_komunikacyjne.pdf>
-Package pdftex.def Info: moduly_interfejsy_komunikacyjne.pdf  used on input lin
-e 434. on input line 434.
-Package pdftex.def Info: Requested size: 513.5706pt x 255.16435pt on input line
- 434.
+Package pdftex.def Info: moduly_interfejsy_komunikacyjne.pdf  used on input line 434.
+(pdftex.def)             Requested size: 513.5706pt x 255.16435pt.
  [27 <./pay_cropped.pdf> <./moduly_interfejsy_komunikacyjne.pdf
 
-pdfTeX warning: pdflatex.exe (file ./moduly_interfejsy_komunikacyjne.pdf): PDF 
-inclusion: invalid other resource which is no dict (key 'ProcSets', type <array
->); ignored.
+pdfTeX warning: pdflatex.exe (file ./moduly_interfejsy_komunikacyjne.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<ProjektOprogramowania.pdf, id=535, pagebox=cropbox, 1067.99pt x 1465.475pt>
+<ProjektOprogramowania.pdf, id=535, 1067.99pt x 1465.475pt>
 File: ProjektOprogramowania.pdf Graphic file (type pdf)
 <use ProjektOprogramowania.pdf>
-Package pdftex.def Info: ProjektOprogramowania.pdf  used on input line 465. on 
-input line 465.
-Package pdftex.def Info: Requested size: 513.5706pt x 704.73933pt on input line
- 465.
+Package pdftex.def Info: ProjektOprogramowania.pdf  used on input line 465.
+(pdftex.def)             Requested size: 513.5706pt x 704.73933pt.
  [28]
-<registerSequenceDiagram.pdf, id=539, pagebox=cropbox, 541.82423pt x 234.0745pt
->
+<registerSequenceDiagram.pdf, id=539, 541.82423pt x 234.0745pt>
 File: registerSequenceDiagram.pdf Graphic file (type pdf)
 <use registerSequenceDiagram.pdf>
-Package pdftex.def Info: registerSequenceDiagram.pdf  used on input line 473. o
-n input line 473.
-Package pdftex.def Info: Requested size: 513.5706pt x 221.86946pt on input line
- 473.
+Package pdftex.def Info: registerSequenceDiagram.pdf  used on input line 473.
+(pdftex.def)             Requested size: 513.5706pt x 221.86946pt.
  [29 <./ProjektOprogramowania.pdf>]
-<loginSequenceDiagram.pdf, id=551, pagebox=cropbox, 569.32701pt x 449.47923pt>
+<loginSequenceDiagram.pdf, id=551, 569.32701pt x 449.47923pt>
 File: loginSequenceDiagram.pdf Graphic file (type pdf)
 <use loginSequenceDiagram.pdf>
-Package pdftex.def Info: loginSequenceDiagram.pdf  used on input line 481. on i
-nput line 481.
-Package pdftex.def Info: Requested size: 513.5706pt x 405.46718pt on input line
- 481.
-<CRUDSequenceDiagram.pdf, id=552, pagebox=cropbox, 557.48277pt x 877.87973pt>
+Package pdftex.def Info: loginSequenceDiagram.pdf  used on input line 481.
+(pdftex.def)             Requested size: 513.5706pt x 405.46718pt.
+<CRUDSequenceDiagram.pdf, id=552, 557.48277pt x 877.87973pt>
 File: CRUDSequenceDiagram.pdf Graphic file (type pdf)
 <use CRUDSequenceDiagram.pdf>
-Package pdftex.def Info: CRUDSequenceDiagram.pdf  used on input line 489. on in
-put line 489.
-Package pdftex.def Info: Requested size: 459.51532pt x 723.61674pt on input lin
-e 489.
+Package pdftex.def Info: CRUDSequenceDiagram.pdf  used on input line 489.
+(pdftex.def)             Requested size: 459.51532pt x 723.61674pt.
  [30 <./registerSequenceDiagram.pdf> <./loginSequenceDiagram.pdf
 
-pdfTeX warning: pdflatex.exe (file ./loginSequenceDiagram.pdf): PDF inclusion: 
-multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex.exe (file ./loginSequenceDiagram.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<paymentSequenceDiagram.pdf, id=579, pagebox=cropbox, 557.28201pt x 440.44548pt
->
+<paymentSequenceDiagram.pdf, id=579, 557.28201pt x 440.44548pt>
 File: paymentSequenceDiagram.pdf Graphic file (type pdf)
 <use paymentSequenceDiagram.pdf>
-Package pdftex.def Info: paymentSequenceDiagram.pdf  used on input line 497. on
- input line 497.
-Package pdftex.def Info: Requested size: 459.51532pt x 363.19054pt on input lin
-e 497.
- [31 <./CRUDSequenceDiagram.pdf>] [32 <./paymentSequenceDiagram.pdf>]
-[33] (./main.aux) ) 
+Package pdftex.def Info: paymentSequenceDiagram.pdf  used on input line 497.
+(pdftex.def)             Requested size: 459.51532pt x 363.19054pt.
+ [31 <./CRUDSequenceDiagram.pdf>]
+<toggleSequence.pdf, id=596, 499.36563pt x 233.62282pt>
+File: toggleSequence.pdf Graphic file (type pdf)
+<use toggleSequence.pdf>
+Package pdftex.def Info: toggleSequence.pdf  used on input line 505.
+(pdftex.def)             Requested size: 459.51532pt x 214.98549pt.
+ [32 <./paymentSequenceDiagram.pdf> <./toggleSequence.pdf
+
+pdfTeX warning: pdflatex.exe (file ./toggleSequence.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<usersDB.pdf, id=623, 478.78876pt x 651.43375pt>
+File: usersDB.pdf Graphic file (type pdf)
+<use usersDB.pdf>
+Package pdftex.def Info: usersDB.pdf  used on input line 544.
+(pdftex.def)             Requested size: 513.5706pt x 698.80649pt.
+ [33]
+Overfull \vbox (1.44946pt too high) has occurred while \output is active []
+
+ [34 <./usersDB.pdf>]
+<rulesDB.pdf, id=649, 317.185pt x 474.77374pt>
+File: rulesDB.pdf Graphic file (type pdf)
+<use rulesDB.pdf>
+Package pdftex.def Info: rulesDB.pdf  used on input line 552.
+(pdftex.def)             Requested size: 378.42001pt x 566.48013pt.
+ [35 <./rulesDB.pdf>] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 6266 strings out of 492990
- 88073 string characters out of 6136333
- 171272 words of memory out of 5000000
- 9663 multiletter control sequences out of 15000+600000
+ 6039 strings out of 494509
+ 87197 string characters out of 6176085
+ 172791 words of memory out of 5000000
+ 9533 multiletter control sequences out of 15000+600000
  13200 words of font info for 27 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 41i,12n,45p,452b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-supe
-r-t1.enc}<c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-<c:/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texliv
-e/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2017/tex
-mf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2017/texmf-dist/fo
-nts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2017/texmf-dist/fonts/type1/
-public/cm-super/sfcc1200.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/cm-
-super/sfcc1440.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm
-1000.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><
-c:/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfxc1728.pfb>
-Output written on main.pdf (33 pages, 3450518 bytes).
+ 56 hyphenation exceptions out of 8191
+ 41i,12n,45p,516b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfxc1728.pfb>
+Output written on main.pdf (35 pages, 3621255 bytes).
 PDF statistics:
- 649 PDF objects out of 1000 (max. 8388607)
- 432 compressed objects within 5 object streams
+ 705 PDF objects out of 1000 (max. 8388607)
+ 469 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
- 237 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 252 words of extra memory for PDF output out of 10000 (max. 10000000)
 

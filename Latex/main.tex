@@ -210,7 +210,7 @@
 			\end{tabular}
 			\caption{State diagram for payment}
 		\end{figure}
-
+ 
 	\section{Requirements' specification}
 		
 		Requirements was shown in form of use cases with scenarios. We aren't showing scenarios for mobile application's use cases because they are too trivial.
@@ -498,6 +498,14 @@
 				\end{tabular} 
 				\caption{Payment Rules Sequence Diagram}
 			\end{figure}
+
+			\begin{figure}[H] 
+				\centering
+				\begin{tabular}{c}
+					\includegraphics[width=.85\textwidth]{toggleSequence}
+				\end{tabular} 
+				\caption{Toogle Rule's State Sequence Diagram}
+			\end{figure}
 		
 		\subsection{Server side: API}
 
@@ -527,5 +535,23 @@
 				\item \textbackslash api\textbackslash children\textbackslash update - updating child data,
 				\item \textbackslash api\textbackslash children\textbackslash delete - deleting child data.
 			\end{itemize}
+		
+	\section{Data Base Diagram}
+
+		\begin{figure}[H] 
+			\centering
+			\begin{tabular}{c}
+				\includegraphics[width=.95\textwidth]{usersDB}
+			\end{tabular} 
+			\caption{Users document schema}
+		\end{figure}
+
+		\begin{figure}[H] 
+			\centering
+			\begin{tabular}{c}
+				\includegraphics[width=.70\textwidth]{rulesDB}
+			\end{tabular} 
+			\caption{Rules document schema}
+		\end{figure}
 
 \end{document}
