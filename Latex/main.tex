@@ -6,8 +6,11 @@
 \usepackage{float}
 \usepackage{anyfontsize}
 \usepackage{graphicx}
+\usepackage{courier}
  
 \makeatletter 
+
+\lstset{basicstyle=\footnotesize\ttfamily,breaklines=true}
 
 \begin{document}   
 
@@ -536,12 +539,14 @@
 				\item \textbackslash api\textbackslash children\textbackslash delete - deleting child data.
 			\end{itemize}
 		
-	\section{Data Base Diagram}
+	\section{Data Base}
+
+	\subsection{Diagrams}
 
 		\begin{figure}[H] 
 			\centering
 			\begin{tabular}{c}
-				\includegraphics[width=.95\textwidth]{usersDB}
+				\includegraphics[width=.95\textwidth]{userDatabase}
 			\end{tabular} 
 			\caption{Users document schema}
 		\end{figure}
@@ -549,9 +554,62 @@
 		\begin{figure}[H] 
 			\centering
 			\begin{tabular}{c}
-				\includegraphics[width=.70\textwidth]{rulesDB}
+				\includegraphics[width=.70\textwidth]{rulesDatabase} 
 			\end{tabular} 
 			\caption{Rules document schema}
 		\end{figure}
+
+	\subsection{Queries for Rules}
+
+		We will show implementation of queries only for rules, because queries of children and areas are implemented in a very analogous way. Rules queries are executed by mongoose library, therefore they are very simple.
+
+		\subsubsection{Create}
+			\begin{lstlisting}
+				newRule = new Rule({
+					startDate,
+					endDate,
+					repetition,
+					areaId,
+					lastResponded,
+					childId,
+					_user
+				});
+				await newRule.save();
+			\end{lstlisting}
+
+		\subsubsection{Read current}
+			\begin{lstlisting}
+				Rule.find({
+					_user,
+					startDate: {$lte: Date.now()},
+					endDate: {$gte: Date.now()}
+				});
+			\end{lstlisting}
+
+		\subsubsection{Read all}
+			\begin{lstlisting}
+				Rule.find({
+					_user
+				});
+			\end{lstlisting}
+		
+		\subsubsection{Update}
+			\begin{lstlisting}
+				Rule.updateOne({_id: ruleId},{
+					startDate,
+					endDate,
+					repetition,
+					areaId,
+					lastResponded: Date.now(),
+					childId,
+				});
+			\end{lstlisting}
+		
+		\subsubsection{Delete}
+			\begin{lstlisting}
+				Rule.deleteOne({
+					_id
+				});
+			\end{lstlisting}
 
 \end{document}

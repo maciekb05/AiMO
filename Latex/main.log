@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.7)  9 DEC 2018 17:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.7)  11 DEC 2018 16:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -224,21 +224,23 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@floatcapt=\box32
 ) (c:/texlive/2018/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
 Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
+) (c:/texlive/2018/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
  (c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count108
@@ -336,26 +338,26 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 <logo-agh.jpg, id=1, 73.2336pt x 142.6128pt>
 File: logo-agh.jpg Graphic file (type jpg)
 <use logo-agh.jpg>
-Package pdftex.def Info: logo-agh.jpg  used on input line 21.
+Package pdftex.def Info: logo-agh.jpg  used on input line 24.
 (pdftex.def)             Requested size: 58.58693pt x 114.09036pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 21.
+(Font)              <7> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 21.
+(Font)              <5> on input line 24.
  [1
 
 {c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logo-agh.jpg>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 82.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 85.
  (c:/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 82.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 85.
  [2]
 <Business_Activity_Diagram.pdf, id=22, 1101.71597pt x 2127.14696pt>
 File: Business_Activity_Diagram.pdf Graphic file (type pdf)
 <use Business_Activity_Diagram.pdf>
-Package pdftex.def Info: Business_Activity_Diagram.pdf  used on input line 128.
+Package pdftex.def Info: Business_Activity_Diagram.pdf  used on input line 131.
 (pdftex.def)             Requested size: 393.45702pt x 759.6886pt.
  [3]
 Overfull \vbox (23.43121pt too high) has occurred while \output is active []
@@ -364,52 +366,52 @@ Overfull \vbox (23.43121pt too high) has occurred while \output is active []
 <cropped_Registration_Activity_Diagram.pdf, id=45, 992.70876pt x 863.225pt>
 File: cropped_Registration_Activity_Diagram.pdf Graphic file (type pdf)
 <use cropped_Registration_Activity_Diagram.pdf>
-Package pdftex.def Info: cropped_Registration_Activity_Diagram.pdf  used on input line 136.
+Package pdftex.def Info: cropped_Registration_Activity_Diagram.pdf  used on input line 139.
 (pdftex.def)             Requested size: 513.5706pt x 446.5877pt.
 <Login_cropped.pdf, id=46, 586.94281pt x 752.31062pt>
 File: Login_cropped.pdf Graphic file (type pdf)
 <use Login_cropped.pdf>
-Package pdftex.def Info: Login_cropped.pdf  used on input line 144.
+Package pdftex.def Info: Login_cropped.pdf  used on input line 147.
 (pdftex.def)             Requested size: 513.5706pt x 658.27017pt.
  [5 <./cropped_Registration_Activity_Diagram.pdf>]
 <crudCreate_cropped.pdf, id=66, 586.94281pt x 642.90187pt>
 File: crudCreate_cropped.pdf Graphic file (type pdf)
 <use crudCreate_cropped.pdf>
-Package pdftex.def Info: crudCreate_cropped.pdf  used on input line 152.
+Package pdftex.def Info: crudCreate_cropped.pdf  used on input line 155.
 (pdftex.def)             Requested size: 513.5706pt x 562.53775pt.
  [6 <./Login_cropped.pdf>]
 <crudUpdate_cropped.pdf, id=86, 586.94281pt x 667.99562pt>
 File: crudUpdate_cropped.pdf Graphic file (type pdf)
 <use crudUpdate_cropped.pdf>
-Package pdftex.def Info: crudUpdate_cropped.pdf  used on input line 160.
+Package pdftex.def Info: crudUpdate_cropped.pdf  used on input line 163.
 (pdftex.def)             Requested size: 513.5706pt x 584.49474pt.
  [7 <./crudCreate_cropped.pdf>]
 <crudDelete_cropped.pdf, id=99, 586.94281pt x 651.93562pt>
 File: crudDelete_cropped.pdf Graphic file (type pdf)
 <use crudDelete_cropped.pdf>
-Package pdftex.def Info: crudDelete_cropped.pdf  used on input line 168.
+Package pdftex.def Info: crudDelete_cropped.pdf  used on input line 171.
 (pdftex.def)             Requested size: 513.5706pt x 570.44226pt.
  [8 <./crudUpdate_cropped.pdf>] [9 <./crudDelete_cropped.pdf>]
 <classes.pdf, id=122, 551.2595pt x 739.16153pt>
 File: classes.pdf Graphic file (type pdf)
 <use classes.pdf>
-Package pdftex.def Info: classes.pdf  used on input line 191.
+Package pdftex.def Info: classes.pdf  used on input line 194.
 (pdftex.def)             Requested size: 513.5706pt x 688.63123pt.
 <Stanu_cropped.pdf, id=123, 666.74094pt x 359.84438pt>
 File: Stanu_cropped.pdf Graphic file (type pdf)
 <use Stanu_cropped.pdf>
-Package pdftex.def Info: Stanu_cropped.pdf  used on input line 201.
+Package pdftex.def Info: Stanu_cropped.pdf  used on input line 204.
 (pdftex.def)             Requested size: 513.5706pt x 277.19632pt.
  [10 <./classes.pdf>]
 <paymentStateDiagram.pdf, id=135, 638.78653pt x 254.75175pt>
 File: paymentStateDiagram.pdf Graphic file (type pdf)
 <use paymentStateDiagram.pdf>
-Package pdftex.def Info: paymentStateDiagram.pdf  used on input line 209.
+Package pdftex.def Info: paymentStateDiagram.pdf  used on input line 212.
 (pdftex.def)             Requested size: 513.5706pt x 204.82399pt.
 <webUseCase.png, id=136, 629.9535pt x 593.21625pt>
 File: webUseCase.png Graphic file (type png)
 <use webUseCase.png>
-Package pdftex.def Info: webUseCase.png  used on input line 221.
+Package pdftex.def Info: webUseCase.png  used on input line 224.
 (pdftex.def)             Requested size: 432.48355pt x 407.26491pt.
  [11 <./Stanu_cropped.pdf> <./paymentStateDiagram.pdf
 
@@ -418,68 +420,68 @@ pdfTeX warning: pdflatex.exe (file ./paymentStateDiagram.pdf): PDF inclusion: mu
 <parentUseCase.pdf, id=165, 451.6875pt x 244.915pt>
 File: parentUseCase.pdf Graphic file (type pdf)
 <use parentUseCase.pdf>
-Package pdftex.def Info: parentUseCase.pdf  used on input line 229.
+Package pdftex.def Info: parentUseCase.pdf  used on input line 232.
 (pdftex.def)             Requested size: 432.48355pt x 234.51778pt.
 <childUseCase.pdf, id=166, 445.665pt x 349.305pt>
 File: childUseCase.pdf Graphic file (type pdf)
 <use childUseCase.pdf>
-Package pdftex.def Info: childUseCase.pdf  used on input line 237.
+Package pdftex.def Info: childUseCase.pdf  used on input line 240.
 (pdftex.def)             Requested size: 432.48355pt x 338.97467pt.
  [12 <./webUseCase.PNG> <./parentUseCase.pdf>]
 <log_cropped.pdf, id=178, 515.9275pt x 466.74374pt>
 File: log_cropped.pdf Graphic file (type pdf)
 <use log_cropped.pdf>
-Package pdftex.def Info: log_cropped.pdf  used on input line 245.
+Package pdftex.def Info: log_cropped.pdf  used on input line 248.
 (pdftex.def)             Requested size: 432.48355pt x 391.2644pt.
  [13 <./childUseCase.pdf>]
 <signinIn.jpg, id=191, 1039.75548pt x 510.55258pt>
 File: signinIn.jpg Graphic file (type jpg)
 <use signinIn.jpg>
-Package pdftex.def Info: signinIn.jpg  used on input line 252.
+Package pdftex.def Info: signinIn.jpg  used on input line 255.
 (pdftex.def)             Requested size: 432.48355pt x 212.35837pt.
 <reg_cropped.pdf, id=192, 509.905pt x 407.5225pt>
 File: reg_cropped.pdf Graphic file (type pdf)
 <use reg_cropped.pdf>
-Package pdftex.def Info: reg_cropped.pdf  used on input line 259.
+Package pdftex.def Info: reg_cropped.pdf  used on input line 262.
 (pdftex.def)             Requested size: 432.48355pt x 345.662pt.
  [14 <./log_cropped.pdf> <./signinIn.jpg>]
 <register.jpg, id=219, 1034.31581pt x 504.3358pt>
 File: register.jpg Graphic file (type jpg)
 <use register.jpg>
-Package pdftex.def Info: register.jpg  used on input line 266.
+Package pdftex.def Info: register.jpg  used on input line 269.
 (pdftex.def)             Requested size: 432.48355pt x 210.87303pt.
 <dashboard.jpg, id=220, 1043.64096pt x 508.99838pt>
 File: dashboard.jpg Graphic file (type jpg)
 <use dashboard.jpg>
-Package pdftex.def Info: dashboard.jpg  used on input line 272.
+Package pdftex.def Info: dashboard.jpg  used on input line 275.
 (pdftex.def)             Requested size: 432.48355pt x 210.92749pt.
  [15 <./reg_cropped.pdf> <./register.jpg>]
 <children.jpg, id=247, 1038.9784pt x 512.10678pt>
 File: children.jpg Graphic file (type jpg)
 <use children.jpg>
-Package pdftex.def Info: children.jpg  used on input line 278.
+Package pdftex.def Info: children.jpg  used on input line 281.
 (pdftex.def)             Requested size: 432.48355pt x 213.16891pt.
 <crC_cropped.pdf, id=248, 503.8825pt x 314.17375pt>
 File: crC_cropped.pdf Graphic file (type pdf)
 <use crC_cropped.pdf>
-Package pdftex.def Info: crC_cropped.pdf  used on input line 285.
+Package pdftex.def Info: crC_cropped.pdf  used on input line 288.
 (pdftex.def)             Requested size: 432.48355pt x 269.65681pt.
  [16 <./dashboard.jpg> <./children.jpg>]
 <addChild.jpg, id=252, 1051.41194pt x 510.55258pt>
 File: addChild.jpg Graphic file (type jpg)
 <use addChild.jpg>
-Package pdftex.def Info: addChild.jpg  used on input line 292.
+Package pdftex.def Info: addChild.jpg  used on input line 295.
 (pdftex.def)             Requested size: 432.48355pt x 210.00568pt.
 <upC_cropped.pdf, id=253, 515.9275pt x 306.14375pt>
 File: upC_cropped.pdf Graphic file (type pdf)
 <use upC_cropped.pdf>
-Package pdftex.def Info: upC_cropped.pdf  used on input line 299.
+Package pdftex.def Info: upC_cropped.pdf  used on input line 302.
 (pdftex.def)             Requested size: 432.48355pt x 256.63579pt.
  [17 <./crC_cropped.pdf> <./addChild.jpg>]
 <editChild.jpg, id=275, 1049.85774pt x 513.66096pt>
 File: editChild.jpg Graphic file (type jpg)
 <use editChild.jpg>
-Package pdftex.def Info: editChild.jpg  used on input line 306.
+Package pdftex.def Info: editChild.jpg  used on input line 309.
 (pdftex.def)             Requested size: 432.48355pt x 211.59776pt.
 
 
@@ -487,79 +489,79 @@ pdfTeX warning: pdflatex.exe (file ./deC_cropped.pdf): PDF inclusion: found PDF 
 <deC_cropped.pdf, id=276, 497.25414pt x 351.29434pt>
 File: deC_cropped.pdf Graphic file (type pdf)
 <use deC_cropped.pdf>
-Package pdftex.def Info: deC_cropped.pdf  used on input line 313.
+Package pdftex.def Info: deC_cropped.pdf  used on input line 316.
 (pdftex.def)             Requested size: 432.48355pt x 305.53247pt.
 [18 <./upC_cropped.pdf> <./editChild.jpg>]
 <deleteChild.jpg, id=298, 1052.96613pt x 508.99838pt>
 File: deleteChild.jpg Graphic file (type jpg)
 <use deleteChild.jpg>
-Package pdftex.def Info: deleteChild.jpg  used on input line 320.
+Package pdftex.def Info: deleteChild.jpg  used on input line 323.
 (pdftex.def)             Requested size: 432.48355pt x 209.06348pt.
 <areas.jpg, id=299, 1037.4242pt x 512.10678pt>
 File: areas.jpg Graphic file (type jpg)
 <use areas.jpg>
-Package pdftex.def Info: areas.jpg  used on input line 326.
+Package pdftex.def Info: areas.jpg  used on input line 329.
 (pdftex.def)             Requested size: 432.48355pt x 213.48929pt.
  [19 <./deC_cropped.pdf> <./deleteChild.jpg>]
 <crA_cropped.pdf, id=328, 503.8825pt x 339.2675pt>
 File: crA_cropped.pdf Graphic file (type pdf)
 <use crA_cropped.pdf>
-Package pdftex.def Info: crA_cropped.pdf  used on input line 333.
+Package pdftex.def Info: crA_cropped.pdf  used on input line 336.
 (pdftex.def)             Requested size: 432.48355pt x 291.1949pt.
 <addArea.jpg, id=329, 1052.96613pt x 507.4442pt>
 File: addArea.jpg Graphic file (type jpg)
 <use addArea.jpg>
-Package pdftex.def Info: addArea.jpg  used on input line 340.
+Package pdftex.def Info: addArea.jpg  used on input line 343.
 (pdftex.def)             Requested size: 432.48355pt x 208.42513pt.
  [20 <./areas.jpg> <./crA_cropped.pdf>]
 <upA_cropped.pdf, id=351, 509.905pt x 305.14pt>
 File: upA_cropped.pdf Graphic file (type pdf)
 <use upA_cropped.pdf>
-Package pdftex.def Info: upA_cropped.pdf  used on input line 347.
+Package pdftex.def Info: upA_cropped.pdf  used on input line 350.
 (pdftex.def)             Requested size: 432.48355pt x 258.82079pt.
 <editArea.jpg, id=352, 1049.85774pt x 507.4442pt>
 File: editArea.jpg Graphic file (type jpg)
 <use editArea.jpg>
-Package pdftex.def Info: editArea.jpg  used on input line 354.
+Package pdftex.def Info: editArea.jpg  used on input line 357.
 (pdftex.def)             Requested size: 432.48355pt x 209.03682pt.
  [21 <./addArea.jpg> <./upA_cropped.pdf>]
 <deA_cropped.pdf, id=374, 509.905pt x 365.365pt>
 File: deA_cropped.pdf Graphic file (type pdf)
 <use deA_cropped.pdf>
-Package pdftex.def Info: deA_cropped.pdf  used on input line 361.
+Package pdftex.def Info: deA_cropped.pdf  used on input line 364.
 (pdftex.def)             Requested size: 432.48355pt x 309.90385pt.
 <deleteArea.jpg, id=375, 1057.62871pt x 515.21516pt>
 File: deleteArea.jpg Graphic file (type jpg)
 <use deleteArea.jpg>
-Package pdftex.def Info: deleteArea.jpg  used on input line 368.
+Package pdftex.def Info: deleteArea.jpg  used on input line 371.
 (pdftex.def)             Requested size: 432.48355pt x 210.67355pt.
  [22 <./editArea.jpg> <./deA_cropped.pdf>]
 <rules.jpg, id=402, 1011.02719pt x 494.59781pt>
 File: rules.jpg Graphic file (type jpg)
 <use rules.jpg>
-Package pdftex.def Info: rules.jpg  used on input line 374.
+Package pdftex.def Info: rules.jpg  used on input line 377.
 (pdftex.def)             Requested size: 432.48355pt x 211.57104pt.
 <crR_cropped.pdf, id=403, 503.8825pt x 364.36125pt>
 File: crR_cropped.pdf Graphic file (type pdf)
 <use crR_cropped.pdf>
-Package pdftex.def Info: crR_cropped.pdf  used on input line 381.
+Package pdftex.def Info: crR_cropped.pdf  used on input line 384.
 (pdftex.def)             Requested size: 432.48355pt x 312.73299pt.
  [23 <./deleteArea.jpg> <./rules.jpg>]
 <addRule.jpg, id=407, 1018.55531pt x 488.57532pt>
 File: addRule.jpg Graphic file (type jpg)
 <use addRule.jpg>
-Package pdftex.def Info: addRule.jpg  used on input line 388.
+Package pdftex.def Info: addRule.jpg  used on input line 391.
 (pdftex.def)             Requested size: 432.48355pt x 207.45166pt.
 <upR_cropped.pdf, id=408, 515.9275pt x 306.14375pt>
 File: upR_cropped.pdf Graphic file (type pdf)
 <use upR_cropped.pdf>
-Package pdftex.def Info: upR_cropped.pdf  used on input line 395.
+Package pdftex.def Info: upR_cropped.pdf  used on input line 398.
 (pdftex.def)             Requested size: 432.48355pt x 256.63579pt.
  [24 <./crR_cropped.pdf> <./addRule.jpg>]
 <editRule.jpg, id=430, 1017.04968pt x 496.10344pt>
 File: editRule.jpg Graphic file (type jpg)
 <use editRule.jpg>
-Package pdftex.def Info: editRule.jpg  used on input line 402.
+Package pdftex.def Info: editRule.jpg  used on input line 405.
 (pdftex.def)             Requested size: 432.48355pt x 210.9585pt.
 
 
@@ -567,24 +569,24 @@ pdfTeX warning: pdflatex.exe (file ./deR_cropped.pdf): PDF inclusion: found PDF 
 <deR_cropped.pdf, id=431, 500.31418pt x 354.34914pt>
 File: deR_cropped.pdf Graphic file (type pdf)
 <use deR_cropped.pdf>
-Package pdftex.def Info: deR_cropped.pdf  used on input line 409.
+Package pdftex.def Info: deR_cropped.pdf  used on input line 412.
 (pdftex.def)             Requested size: 432.48355pt x 306.30772pt.
 [25 <./upR_cropped.pdf> <./editRule.jpg>]
 <deleteRule.jpg, id=454, 1020.06094pt x 496.10344pt>
 File: deleteRule.jpg Graphic file (type jpg)
 <use deleteRule.jpg>
-Package pdftex.def Info: deleteRule.jpg  used on input line 416.
+Package pdftex.def Info: deleteRule.jpg  used on input line 419.
 (pdftex.def)             Requested size: 432.48355pt x 210.33777pt.
 <pay_cropped.pdf, id=455, 509.905pt x 389.455pt>
 File: pay_cropped.pdf Graphic file (type pdf)
 <use pay_cropped.pdf>
-Package pdftex.def Info: pay_cropped.pdf  used on input line 423.
+Package pdftex.def Info: pay_cropped.pdf  used on input line 426.
 (pdftex.def)             Requested size: 432.48355pt x 330.33708pt.
  [26 <./deR_cropped.pdf> <./deleteRule.jpg>]
 <moduly_interfejsy_komunikacyjne.pdf, id=488, 1266.7325pt x 629.35126pt>
 File: moduly_interfejsy_komunikacyjne.pdf Graphic file (type pdf)
 <use moduly_interfejsy_komunikacyjne.pdf>
-Package pdftex.def Info: moduly_interfejsy_komunikacyjne.pdf  used on input line 434.
+Package pdftex.def Info: moduly_interfejsy_komunikacyjne.pdf  used on input line 437.
 (pdftex.def)             Requested size: 513.5706pt x 255.16435pt.
  [27 <./pay_cropped.pdf> <./moduly_interfejsy_komunikacyjne.pdf
 
@@ -593,72 +595,89 @@ pdfTeX warning: pdflatex.exe (file ./moduly_interfejsy_komunikacyjne.pdf): PDF i
 <ProjektOprogramowania.pdf, id=535, 1067.99pt x 1465.475pt>
 File: ProjektOprogramowania.pdf Graphic file (type pdf)
 <use ProjektOprogramowania.pdf>
-Package pdftex.def Info: ProjektOprogramowania.pdf  used on input line 465.
+Package pdftex.def Info: ProjektOprogramowania.pdf  used on input line 468.
 (pdftex.def)             Requested size: 513.5706pt x 704.73933pt.
  [28]
-<registerSequenceDiagram.pdf, id=539, 541.82423pt x 234.0745pt>
+<registerSequenceDiagram.pdf, id=539, 550.85799pt x 264.18701pt>
 File: registerSequenceDiagram.pdf Graphic file (type pdf)
 <use registerSequenceDiagram.pdf>
-Package pdftex.def Info: registerSequenceDiagram.pdf  used on input line 473.
-(pdftex.def)             Requested size: 513.5706pt x 221.86946pt.
+Package pdftex.def Info: registerSequenceDiagram.pdf  used on input line 476.
+(pdftex.def)             Requested size: 513.5706pt x 246.32024pt.
  [29 <./ProjektOprogramowania.pdf>]
-<loginSequenceDiagram.pdf, id=551, 569.32701pt x 449.47923pt>
+<loginSequenceDiagram.pdf, id=551, 569.32701pt x 474.57298pt>
 File: loginSequenceDiagram.pdf Graphic file (type pdf)
 <use loginSequenceDiagram.pdf>
-Package pdftex.def Info: loginSequenceDiagram.pdf  used on input line 481.
-(pdftex.def)             Requested size: 513.5706pt x 405.46718pt.
-<CRUDSequenceDiagram.pdf, id=552, 557.48277pt x 877.87973pt>
+Package pdftex.def Info: loginSequenceDiagram.pdf  used on input line 484.
+(pdftex.def)             Requested size: 513.5706pt x 428.1038pt.
+<CRUDSequenceDiagram.pdf, id=552, 672.91403pt x 877.87973pt>
 File: CRUDSequenceDiagram.pdf Graphic file (type pdf)
 <use CRUDSequenceDiagram.pdf>
-Package pdftex.def Info: CRUDSequenceDiagram.pdf  used on input line 489.
-(pdftex.def)             Requested size: 459.51532pt x 723.61674pt.
+Package pdftex.def Info: CRUDSequenceDiagram.pdf  used on input line 492.
+(pdftex.def)             Requested size: 459.51532pt x 599.48204pt.
  [30 <./registerSequenceDiagram.pdf> <./loginSequenceDiagram.pdf
 
 pdfTeX warning: pdflatex.exe (file ./loginSequenceDiagram.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<paymentSequenceDiagram.pdf, id=579, 557.28201pt x 440.44548pt>
+<paymentSequenceDiagram.pdf, id=579, 557.28201pt x 474.57298pt>
 File: paymentSequenceDiagram.pdf Graphic file (type pdf)
 <use paymentSequenceDiagram.pdf>
-Package pdftex.def Info: paymentSequenceDiagram.pdf  used on input line 497.
-(pdftex.def)             Requested size: 459.51532pt x 363.19054pt.
+Package pdftex.def Info: paymentSequenceDiagram.pdf  used on input line 500.
+(pdftex.def)             Requested size: 459.51532pt x 391.33202pt.
  [31 <./CRUDSequenceDiagram.pdf>]
 <toggleSequence.pdf, id=596, 499.36563pt x 233.62282pt>
 File: toggleSequence.pdf Graphic file (type pdf)
 <use toggleSequence.pdf>
-Package pdftex.def Info: toggleSequence.pdf  used on input line 505.
+Package pdftex.def Info: toggleSequence.pdf  used on input line 508.
 (pdftex.def)             Requested size: 459.51532pt x 214.98549pt.
  [32 <./paymentSequenceDiagram.pdf> <./toggleSequence.pdf
 
 pdfTeX warning: pdflatex.exe (file ./toggleSequence.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<usersDB.pdf, id=623, 478.78876pt x 651.43375pt>
-File: usersDB.pdf Graphic file (type pdf)
-<use usersDB.pdf>
-Package pdftex.def Info: usersDB.pdf  used on input line 544.
-(pdftex.def)             Requested size: 513.5706pt x 698.80649pt.
- [33]
-Overfull \vbox (1.44946pt too high) has occurred while \output is active []
 
- [34 <./usersDB.pdf>]
-<rulesDB.pdf, id=649, 317.185pt x 474.77374pt>
-File: rulesDB.pdf Graphic file (type pdf)
-<use rulesDB.pdf>
-Package pdftex.def Info: rulesDB.pdf  used on input line 552.
-(pdftex.def)             Requested size: 378.42001pt x 566.48013pt.
- [35 <./rulesDB.pdf>] (./main.aux) ) 
+d:/Semestr V/Analiza i modelowanie oprogramowania/Projekt/Latex/main.tex:549: LaTeX Error: File `userDatabase' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.549 ...aphics[width=.95\textwidth]{userDatabase}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+d:/Semestr V/Analiza i modelowanie oprogramowania/Projekt/Latex/main.tex:557: LaTeX Error: File `rulesDatabase' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.557 ...phics[width=.70\textwidth]{rulesDatabase}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 567.
+(c:/texlive/2018/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+) [33] [34] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 6039 strings out of 494509
- 87197 string characters out of 6176085
- 172791 words of memory out of 5000000
- 9533 multiletter control sequences out of 15000+600000
- 13200 words of font info for 27 fonts, out of 8000000 for 9000
+ 6340 strings out of 494509
+ 89657 string characters out of 6176085
+ 184840 words of memory out of 5000000
+ 9813 multiletter control sequences out of 15000+600000
+ 14585 words of font info for 30 fonts, out of 8000000 for 9000
  56 hyphenation exceptions out of 8191
- 41i,12n,45p,516b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfxc1728.pfb>
-Output written on main.pdf (35 pages, 3621255 bytes).
+ 41i,12n,45p,516b,1620s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfxc1728.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
+Output written on main.pdf (34 pages, 3529429 bytes).
 PDF statistics:
- 705 PDF objects out of 1000 (max. 8388607)
- 469 compressed objects within 5 object streams
+ 669 PDF objects out of 1000 (max. 8388607)
+ 447 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
- 252 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 242 words of extra memory for PDF output out of 10000 (max. 10000000)
 
